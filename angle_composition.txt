@@ -1,0 +1,9 @@
+cowboy_shot,
+full body,
+head_out_of_frame,
+wide shot,
+(:0)
+(:0)
+(:0)
+(:0)
+(:0)

@@ -1,0 +1,12 @@
+POV,
+from behind,
+(from side:2),
+From side,
+(from above:2),
+From above,
+from below,
+(Straight-on:2),
+Straight-on,
+(:0)
+(:0)
+(:0)
