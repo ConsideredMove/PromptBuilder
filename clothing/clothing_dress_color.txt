@@ -1,0 +1,6 @@
+black dress,
+blue dress,
+pink dress,
+purple dress,
+red dress,
+white dress,

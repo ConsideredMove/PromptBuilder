@@ -1,0 +1,6 @@
+short hair, tomboy,
+medium hair,
+long hair,
+very long hair,
+absurdly long hair,
+big hair,

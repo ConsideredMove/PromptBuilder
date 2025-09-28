@@ -1,0 +1,2 @@
+Shoe dangle,
+Unworn shoes, no_shoes,

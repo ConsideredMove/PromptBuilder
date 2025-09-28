@@ -1,0 +1,2 @@
+__clothing_shoes__
+(:0)

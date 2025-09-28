@@ -1,0 +1,15 @@
+bangs,
+asymmetrical bangs,
+blunt bangs,
+hair over eyes,
+hair over one eye,
+parted bangs,
+swept bangs,
+hair between eyes,
+hair intakes,
+single hair intake,
+sidelocks,
+widow's peak,
+(:0)
+(:0)
+(:0)

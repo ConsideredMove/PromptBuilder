@@ -1,0 +1,18 @@
+pushing_away,
+hand_on_another's_arm,
+holding_another's_arm,
+covering face,
+Arms around neck,
+covering own mouth,
+hands on own stomach,
+v,
+double v,
+(:0)
+(:0)
+(:0)
+(:0)
+(:0)
+(:0)
+(:0)
+(:0)
+(:0)
