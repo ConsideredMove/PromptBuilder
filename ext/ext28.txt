@@ -1,0 +1,8 @@
+ballerina,
+school_uniform,
+babydoll,
+Harem_outfit,
+cheerleader,
+__clothing_swimsuit_main__
+__clothing_lingerie__
+__clothing_style_bridal__

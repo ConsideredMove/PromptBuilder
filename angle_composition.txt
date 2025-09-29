@@ -1,7 +1,10 @@
+close-up,
 cowboy_shot,
 full body,
-head_out_of_frame,
 wide shot,
+#head out of frame
+#eyes out of frame
+#Lower body
 (:0)
 (:0)
 (:0)

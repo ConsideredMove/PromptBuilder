@@ -2,12 +2,11 @@ School,
 Bed, sheets, bedroom, __if_sheet_grab__
 Public indecency,
 on_desk,
-full-length_mirror,
 Stage lights, stage,
 hotel room, love hotel, red_sheet, heart-shaped pillow, __if_sheet_grab__
 otaku room, messy, very crowded, poster (object), __if_sheet_grab__
 gym storeroom,
 messy room, __if_sheet_grab__
 nightclub,
-Cityscape,
-Landscape,
+# Cityscape,
+#Landscape,

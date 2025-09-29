@@ -1,3 +1,5 @@
 Wine, wine_bottle, wine_glass,
 Used_condom,
 unworn_bag,
+# Rose,
+drugged, drugs
