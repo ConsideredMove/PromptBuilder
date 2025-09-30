@@ -1,0 +1,10 @@
+(MATING PRESS:0) (Mating press, sex, hetero, vaginal:2), 
+(CARRYING:0) (suspended congress:1.5), suspension, Standing sex, lifting person, __positions_if_hanging_legs__ __hand_posing_m_carry__ __positions_if_kissing__ __hand_posing_f_s_frontman__
+(SPLIT:0) standing, standing on one leg, __hand_posing_m_split__ __hand_posing_f_c_generic__
+(SPLIT 2:0)  standing split:2), split, tiptoes, balancing, __hand_posing_m_split__ __hand_posing_f_c_generic__
+(SIDE:0) (spooning:2), leg up, lying, on side, leg up, lying_on_side, __hand_posing_m_s_thighs_up__ __positions_if_kissing__ __hand_posing_f_s_behindman__
+(SITTING:0) sitting, sitting on person, on lap, sitting on lap,  girl on top, straddling, __hand_posing_m_s_thighs_up__ __positions_if_kissing__ __hand_posing_f_s_frontman__
+__positions_straddling_front__
+(MISSIONARY:0) Missionary, boy on top, __hand_posing_m_s_no_lock__ __positions_if_kissing__ __hand_posing_f_s_lying_frontman__
+(ANVIL:0) (Anvil position:2), boy_on_top, __hand_posing_m__
+(PILEDRIVER:0) (piledriver_(sex):1.5), boy_on_top, piledriver, pinned, __hand_posing_m_c_thighs__ __hand_posing_f_s_lying__

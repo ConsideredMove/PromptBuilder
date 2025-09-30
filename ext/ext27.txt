@@ -1,3 +1,0 @@
-__ext26__ __clothing_material__ __ext29__
-__ext28__ __clothing_material__ __ext29__
-(:0)

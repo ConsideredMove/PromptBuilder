@@ -1,0 +1,4 @@
+(Sweat:3), (sweatdrop:2), wet, flying sweatdrops, very sweaty,
+Sweat, sweatdrop, very sweaty, flying sweatdrops,
+Sweat, sweatdrop,
+(:0)

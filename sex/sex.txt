@@ -10,8 +10,8 @@
 (PENETRATION:0) __positions_insertion__
 (PENETRATION:0) __positions_insertion__
 (PENETRATION:0) __positions_insertion__
-(IMMINENT:0) __sex_imminent__ 
+(IMMINENT:0) __sex_imminent__ __positions_noninserted__ 
 (IMMINENT STOMACH:0) __sex_imminent__ penis_on_stomach,
-(THIGH SEX:0) penis between thighs, thigh sex, grinding, __sex_imminent__ __hand_posing_f__ __Hand_posing_m_s_thighs_up__
-(AFTERSEX:0) __2if_cum__ __positions_insertion_main__ after sex, erection, gape:2, halferect, __cum__ __cum_on__
+(THIGH SEX:0) penis between thighs, thigh sex, grinding, front-to-back, standing, __sex_imminent__ __hand_posing_f__ __Hand_posing_m_s_thighs_up__
+(AFTERSEX:0) __sex_if_cum__ __positions_insertion_main__ after sex, erection, gape:2, halferect, __cum__ __cum_on__
 (POSING:0) __solo_posing__ solo, dynamic_pose,
