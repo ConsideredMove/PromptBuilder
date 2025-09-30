@@ -1,0 +1,1 @@
+${encapsulation=toplevel} __parameter-to(season=winter, evaluation=items, through=throughtext, wildcardparameter=__color__, encapsulation=variable_insertion)__ ${encapsulation} 

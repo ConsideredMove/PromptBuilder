@@ -2,3 +2,4 @@ clothing_aside
 bottomless
 unworn_clothes
 Clothes_pull
+clothes_lift

@@ -1,15 +1,15 @@
 # STANDING: standing, standing sex, __positions_if_hanging_legs__ __hand_posing_m_standing__
-(CARRYING ALT:0) (reverse suspended congress:1.5), sex from behind, suspension, Standing sex, sex from behind, lifting person, __positions_if_hanging_legs__ front-to-back, __positions_if_nelson__ __hand_posing_m_carry__ __hand_posing_f_s_behindman__
-(CARRYING NELSON:0) reverse suspended congress, sex from behind, suspension, Standing sex, sex from behind, lifting person, front-to-back, (full nelson:1.5), folded, pinned, __hand_posing_f_s_behindman__
-(CARRYING ALT2:0) (reverse suspended congress:1.5), sex from behind, suspension, Standing sex, sex from behind, lifting person, (bent over:1.5), __positions_if_hanging_legs__ front-to-back, __positions_if_nelson__ __hand_posing_m_carry__ __hand_posing_f_s_behindman__
-(SITTING BACK:0) sitting, sitting on person, on lap, sitting on lap, front-to-back, girl on top, sex from behind, straddling, __hand_posing_m_s_thighs_up__ __hand_posing_f_s_behindman__
+(CARRYING ALT:0) (reverse suspended congress:1.5), sex from behind, suspension, Standing sex, sex from behind, lifting person, __positions_if_hanging_legs__ front-to-back, __positions_if_nelson__ __hand_posing_m_carry__ __hand_posing_f_s_behindman_neararms__
+(CARRYING NELSON:0) reverse suspended congress, sex from behind, suspension, Standing sex, sex from behind, lifting person, front-to-back, (full nelson:1.5), folded, pinned, __hand_posing_f_s_behindman_neararms__
+(CARRYING ALT2:0) (reverse suspended congress:1.5), sex from behind, suspension, Standing sex, sex from behind, lifting person, (bent over:1.5), __positions_if_hanging_legs__ front-to-back, __positions_if_nelson__ __hand_posing_m_carry__ __hand_posing_f_s_behindman_neararms__
+(SITTING BACK:0) sitting, sitting on person, on lap, sitting on lap, front-to-back, girl on top, sex from behind, straddling, __hand_posing_m_s_thighs_up__ __hand_posing_f_s_behindman_neararms__
 (REVERSE UPRIGHT STRADDLE:0) (reverse upright straddle:1.5), sex from behind, lying, lying on back, girl on top, __hand_posing_m_s_thighs_up__ straddle, __hand_posing_f_s_behindman__
 (PRONE BONE:0) boy on top, lying, on stomach, (prone bone:2), sex from behind, crawling, arched back, __hand_posing_m_s_thighs_up__ __hand_posing_f_s_behindman__
 (LAYER:0) lying_on_person, lying_on_back, girl_on_top, sex_from_behind, __hand_posing_f_s_lying_behindman__, __hand_posing_m_s_thighs_up__
 (DOGGYSTYLE:0) (doggystyle:1.5), sex from behind, all fours, boy_on_top, __hand_posing_m_s_thighs_up__ __hand_posing_f_s_behindman__
 (BENT:0) (bent over:1.5), sex from behind, __positions_if_against_wall__ __hand_posing_m_s_thighs_up__ __hand_posing_f_c_generic__
 (TOP DOWN:0) (top-down bottom-up:2), sex from behind, head pinned down, boy_on_top, __hand_posing_m_c_thighs__ __hand_posing_f_s_lying__
-
+__positions_prop_behind__
 # (amazon position:2), lying, girl on top, __hand_posing_m_s_thighs_up__ straddle, __hand_posing_f_s_frontman__
 # (DOWNWARD:0) (downward dog:2), sex from behind, __hand_posing_m_ass_only__
 # (FRONTBEND:0) (frontbend:2), sex from behind, __hand_posing_m_ass_only__ __hand_posing_f_s_lying__

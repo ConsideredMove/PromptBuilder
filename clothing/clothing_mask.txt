@@ -1,0 +1,7 @@
+Fox mask
+Mouse mask
+Rabbit mask
+surgical mask
+Domino mask
+Eye mask
+blindfold, __clothing_mask_if_blindfold_lift__

@@ -1,3 +1,5 @@
 Arched_back,
 Arched_back,
+bent_over,
+slouching,
 (:0)

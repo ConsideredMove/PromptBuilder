@@ -1,11 +1,16 @@
-Comic,
-Comic, monochrome, lineart,
-Comic,  monochrome, lineart, spot color,
-Comic, splash page, silent comic,
-Comic, multiple views,
-Instant_loss, 2koma,
+Comic, Instant_loss
+Comic, splash page, silent comic, Instant_loss
+Comic, multiple views, Instant_loss
+Instant_loss, 2koma, comic, multiple views
 Cross-section, uterus, cervix, internal cumshot, cumdrip,
 viewfinder, recording, battery indicator,
-viewfinder, recording, battery indicator, censored_identity,
 selfie, reaching towards viewer, looking at viewer, fake_phone_screenshot,
 magazine_cover,
+Collage, multiple views, Instant_loss
+projected inset
+Card (medium)
+Album cover
+fake screenshot
+fake phone screenshot
+social network
+borderless panels, comic, Instant_loss

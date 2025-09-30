@@ -1,0 +1,1 @@
+In ${season:summer}, I wear ${season:summer} shirts and ${season:summer} trousers  __${evaluation}__ __parameter-to-to__ ${wildcardparameter:1} ${encapsulation} ${encapsulation=left} ${encapsulation} ${encapsulation=right} ${encapsulation}

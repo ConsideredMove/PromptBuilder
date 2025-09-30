@@ -1,2 +1,2 @@
 __style_coloring__
-__style_coloring__ __style_mode__
+__style_coloring__ __style_format__
