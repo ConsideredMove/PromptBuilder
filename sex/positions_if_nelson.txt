@@ -1,2 +1,2 @@
 full nelson,
-(:0)
+__no__

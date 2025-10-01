@@ -1,2 +1,2 @@
 __clothing_socks_mod__
-(:0)
+__no__

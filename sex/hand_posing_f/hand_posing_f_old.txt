@@ -16,6 +16,6 @@ pushing_away,
 hand_on_another's_arm,
 holding_another's_arm,
 covering face,
-(:0)
-(:0)
-(:0)
+__no__
+__no__
+__no__

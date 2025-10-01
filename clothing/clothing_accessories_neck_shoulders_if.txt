@@ -1,2 +1,2 @@
 __clothing_accessories_neck_shoulders__
-(:0)
+__no__

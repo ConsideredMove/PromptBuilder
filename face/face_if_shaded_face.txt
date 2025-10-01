@@ -1,2 +1,2 @@
 shaded_face,
-(:0)
+__no__

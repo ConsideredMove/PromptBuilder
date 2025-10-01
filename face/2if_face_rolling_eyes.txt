@@ -1,2 +1,2 @@
 rolling_eyes,
-(:0)
+__no__

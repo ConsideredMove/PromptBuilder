@@ -1,2 +1,2 @@
 __clothing_dress_status__
-(:0)
+__no__

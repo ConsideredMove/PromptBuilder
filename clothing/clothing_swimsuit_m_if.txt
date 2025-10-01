@@ -1,2 +1,2 @@
 __clothing_swimsuit_m__
-(:0)
+__no__

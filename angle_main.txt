@@ -13,6 +13,6 @@ hip_focus,
 from outside
 pov peephole
 pov_doorway
-(:0)
-(:0)
-(:0)
+__no__
+__no__
+__no__

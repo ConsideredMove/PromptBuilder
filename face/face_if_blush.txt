@@ -2,5 +2,5 @@ Ear blush,
 Nose blush,
 Blush,
 full-face blush,
-(:0)
-(:0)
+__no__
+__no__

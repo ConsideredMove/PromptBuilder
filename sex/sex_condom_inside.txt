@@ -1,2 +1,2 @@
 condom_left_inside
-(:0)
+__no__

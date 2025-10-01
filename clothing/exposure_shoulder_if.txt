@@ -1,2 +1,2 @@
 __exposure_shoulder__ __clothing_shoulderless__
-(:0)
+__no__

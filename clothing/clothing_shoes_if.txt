@@ -1,2 +1,2 @@
 __clothing_shoes__
-(:0)
+__no__

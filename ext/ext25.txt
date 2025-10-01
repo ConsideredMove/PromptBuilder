@@ -1,2 +1,2 @@
 unworn_clothes
-(:0)
+__no__

@@ -1,3 +1,3 @@
 stomach bulge,
-(stomach bulge(:0).5),
-(:0)
+(stomach bulge__no__.5),
+__no__
