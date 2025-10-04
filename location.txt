@@ -13,9 +13,9 @@ nightclub,
 under_covers
 changing room
 bathroom
-bathtub
+bathtub, shared bathing, wet, partially submerged
 toilet stall
-shower
+shower, shared bathing, wet, partially submerged
 gym
 prison cell
 poolcave
@@ -25,3 +25,4 @@ storage room
 cliff
 beach
 church
+pool, partially underwater shot, partially submerged

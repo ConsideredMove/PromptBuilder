@@ -1,1 +1,1 @@
-__clothing_panties_m__ __clothing_panties_m__ __clothing_panties_stain_if__ __clothing_panties_variant__ __clothing_panties_unworn_status_if__ unworn panties, no panties,
+__clothing_panties_main__ __clothing_panties_stain_if__ __clothing_panties_unworn_status_if__ 

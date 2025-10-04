@@ -6,10 +6,10 @@ hair over one eye,
 parted bangs,
 swept bangs,
 hair between eyes,
-hair intakes,
-single hair intake,
+# hair intakes,
+# single hair intake,
 sidelocks,
-widow's peak,
+# widow's peak,
 __no__
 __no__
 __no__

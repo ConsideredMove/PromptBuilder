@@ -3,10 +3,14 @@ see-through_clothes,
 see-through_clothes,
 Lace,
 lace_trim,
+Lace,
+lace_trim,
+Lace,
+lace_trim,
 # Latex,
 gold trim,
 silver trim,
-flower trim,
+# flower trim,
 __no__
 __no__
 __no__

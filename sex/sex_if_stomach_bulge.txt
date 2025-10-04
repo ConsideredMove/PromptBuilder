@@ -1,3 +1,2 @@
-stomach bulge,
-(stomach bulge__no__.5),
-__no__
+(stomach bulge:0.75),
+(stomach bulge:0.5),

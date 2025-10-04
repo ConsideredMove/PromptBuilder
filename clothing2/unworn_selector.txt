@@ -1,0 +1,2 @@
+__unworn_tops__, __unworn_bottoms__
+__unworn_fullbody__

@@ -8,9 +8,19 @@ selfie, reaching towards viewer, looking at viewer, fake_phone_screenshot,
 magazine_cover,
 Collage, multiple views, Instant_loss
 projected inset
-Card (medium)
+# Card (medium)
 Album cover
 fake screenshot
 fake phone screenshot
 social network
 borderless panels, comic, Instant_loss
+official_art, official_wallpaper, Game CG, Poster, promotional art
+Artbook
+Thumbnail collage
+Poster
+Manga cover
+promotional art
+polaroid photo
+lace border
+ornate border
+floral border

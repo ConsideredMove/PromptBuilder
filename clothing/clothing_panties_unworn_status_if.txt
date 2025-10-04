@@ -1,2 +1,4 @@
 __clothing_panties_unworn_status__
-__no__
+unworn panties,
+unworn panties,
+unworn panties,

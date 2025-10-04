@@ -1,4 +1,4 @@
 hair in mouth,
-hair over breasts,
+# hair over breasts,
 hair over one breast,
 hair over shoulder,

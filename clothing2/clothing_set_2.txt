@@ -1,9 +1,12 @@
 ballerina,
 school_uniform,
 babydoll,
-Harem_outfit,
 cheerleader,
+sports bra, buruma
 __clothing_swimsuit_main__
 __clothing_lingerie__
 __clothing_style_bridal__
-shoe dangle, high heels
+athletic leotard,
+karate gi,
+Cocktail dress,
+Evening gown
