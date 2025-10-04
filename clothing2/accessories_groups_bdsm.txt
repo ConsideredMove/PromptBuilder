@@ -1,0 +1,3 @@
+{tape_gag|ball_gag|improvised_gag},
+pet_collar,
+blindfold, {blindfold_slip,|blindfold_lift,||}

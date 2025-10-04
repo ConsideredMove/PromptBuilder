@@ -1,0 +1,6 @@
+bondage outfit
+__clothing_bdsm_components__
+shibari
+ribbon bondage
+shibari_over_clothes, __clothing2_main__
+__clothing2_main__

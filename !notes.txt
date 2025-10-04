@@ -1,5 +1,7 @@
 Encapsulation: Parent variables < Parent parameters < My variables (But parents aren't affected by child declarations). If there are multiple declarations, only the rightest one is used for all inclusions.
 
+# __orA$(var)(p=__param__)__
+
 expand bdsm options
 utilize new variablizing to enable higher specificity / variety
 explore more sexual options

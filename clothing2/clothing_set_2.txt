@@ -1,10 +1,13 @@
 ballerina,
-school_uniform,
+school_uniform, miniskirt,
 babydoll,
 cheerleader,
 sports bra, buruma
 __clothing_swimsuit_main__
 __clothing_lingerie__
+__clothing_style_bridal__
+__clothing_style_bridal__
+__clothing_style_bridal__
 __clothing_style_bridal__
 athletic leotard,
 karate gi,

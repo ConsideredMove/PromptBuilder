@@ -1,0 +1,1 @@
+__clothing2_main__ __clothing_mask_if__ __accessories_groups__ __if_wet__ __clothing_material__ __clothing_access__

@@ -1,5 +1,5 @@
 clothing_aside
 bottomless
-# unworn_clothes
+unworn_selector
 Clothes_pull
 clothes_lift

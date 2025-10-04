@@ -44,3 +44,12 @@ pinafore dress,
 sweater dress,
 tennis dress,
 trapeze dress,
+catsuit
+robe,
+bathrobe,
+open robe,
+sarong,
+unitard,
+short jumpsuit,
+leotard
+bodystocking
