@@ -1,11 +1,8 @@
-(smeared_lipstick:1.5), mascara, blue eyeshadow, makeup
-(smeared_lipstick:1.5)
-(smeared_lipstick:1.5)
-plump_lips, 
+(smeared_lipstick), 
+#__ext31__ __ext19__
 __no__
 __no__
 __no__
 __no__
 __no__
-__no__
-# runny makeup
+# runny makeu

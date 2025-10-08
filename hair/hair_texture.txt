@@ -1,8 +1,10 @@
 curly hair,
-drill hair,
-twin drills,
-hair flaps,
-pointy hair,
-ringlets,
-spiked hair,
+# drill hair,
+# twin drills,
+# hair flaps,
+# pointy hair,
+# ringlets,
+# spiked hair,
 wavy hair,
+__no__
+__no__

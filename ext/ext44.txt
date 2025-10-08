@@ -1,2 +1,8 @@
-This is text file number 44,
-Created by the text file generator script,
+magazine_cover,
+fake_phone_screenshot,
+viewfinder, recording, battery indicator,
+fake screenshot
+fake phone screenshot
+social network
+Manga cover
+polaroid photo

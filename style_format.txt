@@ -1,26 +1,10 @@
-Comic, Instant_loss
-Comic, splash page, silent comic, Instant_loss
-Comic, multiple views, Instant_loss
-Instant_loss, 2koma, comic, multiple views
-Cross-section, uterus, cervix, internal cumshot, cumdrip,
-viewfinder, recording, battery indicator,
-selfie, reaching towards viewer, looking at viewer, fake_phone_screenshot,
-magazine_cover,
-Collage, multiple views, Instant_loss
-projected inset
+__ext44__ __ext46__
+__ext45__ __ext46__
+
+
+
+
+
+
+
 # Card (medium)
-Album cover
-fake screenshot
-fake phone screenshot
-social network
-borderless panels, comic, Instant_loss
-official_art, official_wallpaper, Game CG, Poster, promotional art
-Artbook
-Thumbnail collage
-Poster
-Manga cover
-promotional art
-polaroid photo
-lace border
-ornate border
-floral border

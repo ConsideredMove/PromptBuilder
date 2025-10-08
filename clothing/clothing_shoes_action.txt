@@ -1,3 +1,4 @@
-Shoe dangle,
+Shoe dangle, single shoe,
+Shoe dangle, 
 Unworn shoes, no_shoes,
 __no__

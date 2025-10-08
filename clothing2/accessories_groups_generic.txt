@@ -3,16 +3,18 @@
 Fishnets, 
 elbow gloves,
 
-{heart pasties,|bandaids_on_nipples, {bandaid on pussy|}}
+# {heart pasties,|bandaids_on_nipples, {bandaid on pussy|}}
 
 bracelet,
 anklet,
 
 Cross necklace,
+necklace
 
 {ribbon_choker|pet_collar}
 
 # {Fake Bunny ears|Fake Cat ears}
 
-heart pasties,
+# heart pasties,
+bandaids_on_nipples
 belly chain,
