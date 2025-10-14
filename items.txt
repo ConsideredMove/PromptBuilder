@@ -1,4 +1,4 @@
-Wine, wine_bottle, wine_glass,
+{wine_bottle, wine_glass,|wine_bottle,|wine_glass,}
 Used_condom, __items_condom_in_mouth__
 # unworn_bag,
 # Rose,

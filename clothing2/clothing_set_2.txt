@@ -5,7 +5,6 @@ cheerleader,
 sports bra, buruma,
 __clothing_lingerie__
 __clothing_style_bridal__
-_
 karate gi,
 Cocktail dress,
 Evening gown,
