@@ -2,3 +2,5 @@ __clothing_mask__
 __no__
 __no__
 __no__
+__no__
+__no__

@@ -1,10 +1,4 @@
-__ext44__ __ext46__
-__ext45__ __ext46__
-
-
-
-
-
-
-
-# Card (medium)
+__style_format_frame__ __style_format_complements__
+__style_format_comic_picker__ __style_format_complements__
+__no__
+__no__

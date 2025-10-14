@@ -1,2 +1,2 @@
-(PROP :0) __ext31__, __leg_posing_f_asymmetry__, 
+(PROP :0) __clothing_bdsm_components_picker__, __leg_posing_f_asymmetry__, 
 on back, on desk, on stomach

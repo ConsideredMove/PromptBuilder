@@ -1,0 +1,3 @@
+Comic, __style_format_comic_variant__
+Comic, __style_format_comic_variant__ __style_format_comic_variant__
+Comic, __style_format_comic_variant__ __style_format_comic_variant__ __style_format_comic_variant__

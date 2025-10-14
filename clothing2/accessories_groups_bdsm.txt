@@ -1,5 +1,5 @@
-{tape_gag|ball_gag|improvised_gag|wiffle_gag},
+{tape_gag|ball_gag {gag harness|}|improvised_gag|wiffle_gag},
 pet_collar,
 blindfold, {blindfold_slip,|blindfold_lift,||}
 
-gag harness
+#

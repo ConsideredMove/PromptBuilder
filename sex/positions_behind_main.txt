@@ -4,7 +4,7 @@
 (CARRYING ALT2:0) (reverse suspended congress:1.5), sex from behind, suspension, Standing sex, lifting person, (bent over:1.5), __positions_if_hanging_legs__ front-to-back, __positions_if_nelson__ __hand_posing_m_carry__ __hand_posing_f_s_behindman_neararms__
 (SITTING BACK:0) sitting, sitting on person, on lap, sitting on lap, front-to-back, girl on top, straddling, __hand_posing_m_s_thighs_up__ __hand_posing_f_s_behindman_neararms__
 (REVERSE UPRIGHT STRADDLE:0) (reverse upright straddle:1.5), lying, lying on back, girl on top, __hand_posing_m_s_thighs_up__ straddle, __hand_posing_f_s_behindman__
-(PRONE BONE:0) boy on top, lying, on stomach, (prone bone:2), crawling, arched back, __hand_posing_m_s_thighs_up__ __hand_posing_f_s_behindman__
+(PRONE BONE:0) boy on top, lying, on stomach, (prone_bone:1.5), crawling, arched back, __hand_posing_m_s_thighs_up__ __hand_posing_f_s_behindman__
 (LAYER BACK:0) lying_on_person, lying_on_back, girl_on_top, __hand_posing_f_s_lying_behindman__, __hand_posing_m_s_thighs_up__
 (DOGGYSTYLE:0) (doggystyle, all fours:1.5), boy_on_top, __hand_posing_m_s_thighs_up__ __hand_posing_f_s_behindman__
 (BENT:0) (bent over:1.5), __positions_if_against_wall__ __hand_posing_m_s_thighs_up__ __hand_posing_f_c_generic__

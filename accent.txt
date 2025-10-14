@@ -1,1 +1,1 @@
-trembling, motion lines, shaking, flinch, spasm, twitching,
+{|motion lines,} {trembling|shaking|spasm|twitching}, {||sound_effects,} {|||emphasis_lines,}
