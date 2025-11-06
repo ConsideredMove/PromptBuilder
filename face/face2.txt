@@ -1,5 +1,5 @@
 Ahegao, fucked silly __2if_face_drool__ __2if_face_rolling_eyes__ __2if_face_uneven_eyes__ __if_heart__ __face_if_blush__ __face_if_eyebags__ __face_if_bloodshot__
-pain, __2if_face_clenched_teeth__, 
+pain, __2if_face_clenched_teeth__ 
 flustered, embarrassment, __face_if_blush__
 __2if_face_uneven_eyes__ __face_if_eyebags__ __2if_face_drool__ __2if_face_rolling_eyes__ __face_if_bloodshot__
 biting_own_lip, __2if_face_drool__ __2if_face_rolling_eyes__ __2if_face_uneven_eyes__ __if_heart__ __face_if_blush__ __face_if_eyebags__
@@ -8,5 +8,5 @@ surprised, __2if_face_wide-eyed__ __face_if_mouth_openness__ __face_if_blush__
 surprised, scared, panicking, __2if_face_scared_mouth__ __2if_face_crying__ __2if_face_wide-eyed__ __face_if_shaded_face__ __face_if_eyebags__ __face_if_bloodshot__
 traumatized, despair, __face_if_shaded_face__ __face_if_bloodshot__ __2if_face_wide-eyed__ __face_if_shaded_face__ __face_if_eyebags__ 
 flustered, embarrassment, __face_if_blush__ 
-# false smile, __2if_face_wide-eyed__ __face_if_eyebags__ __face_if_bloodshot__
-blush, half-closed eyes, __2if_face_drool__
+false smile, __2if_face_wide-eyed__ __face_if_eyebags__ __face_if_bloodshot__
+blush, half-closed eyes, __2if_face_drool__ 

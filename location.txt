@@ -13,9 +13,9 @@ nightclub,
 under_covers
 changing room
 bathroom
-bathtub, shared bathing, wet, partially submerged
+# bathtub, shared bathing, wet, partially submerged
 toilet stall
-shower, shared bathing, wet, partially submerged
+# shower, shared bathing, wet, partially submerged
 gym
 prison cell
 poolcave

@@ -1,3 +1,7 @@
-(INSERTION:0) ${bottomAccess=1} ${sexTags=1} __sexb_positions__ __actor_m_b__   large_insertion, __sex_if_cum__ sex, vaginal, insertion, {|||just the tip,} __clothing2__ __posture_back__ __foot_posing_f__ __leg_posing_f_asymmetry__ __sex_if_female_orgasm__ __posture_if_head_back__ __sex_if_stomach_bulge__
-(IMMINENT:0) ${sexTags=2}  __sexb_positions__ __sexb_imminent__ __clothing2__
-(AFTER:0) ${sexTags=2} __sexb_positions__ __sexb_after__ __actor_m_b__ __clothing2__
+(INSERTION:0) ${bottomAccess=1} ${sexTags=1} __sexb_positions__ __actor_m_b__ large_insertion, __sex_if_cum__ sex, vaginal, insertion, __sexb_penetration_style__  __posing_f_generic__ __sex_if_stomach_bulge__ __clothing2__ 
+(INSERTION:0) ${bottomAccess=1} ${sexTags=1} __sexb_positions__ __actor_m_b__ large_insertion, __sex_if_cum__ sex, vaginal, insertion, __sexb_penetration_style__  __posing_f_generic__ __sex_if_stomach_bulge__ __clothing2__ 
+(INSERTION:0) ${bottomAccess=1} ${sexTags=1} __sexb_positions__ __actor_m_b__ large_insertion, __sex_if_cum__ sex, vaginal, insertion, __sexb_penetration_style__  __posing_f_generic__ __sex_if_stomach_bulge__ __clothing2__ 
+(INSERTION:0) ${bottomAccess=1} ${sexTags=1} __sexb_positions__ __actor_m_b__ large_insertion, __sex_if_cum__ sex, vaginal, insertion, __sexb_penetration_style__  __posing_f_generic__ __sex_if_stomach_bulge__ __clothing2__ 
+(INSERTION:0) ${bottomAccess=1} ${sexTags=1} __sexb_positions__ __actor_m_b__ large_insertion, __sex_if_cum__ sex, vaginal, insertion, __sexb_penetration_style__ __posing_f_generic__ __sex_if_stomach_bulge__ __clothing2__ 
+# (IMMINENT:0) ${sexTags=2}  __sexb_positions__ __sexb_imminent__ __actor_m_b__ __clothing2__
+# (AFTER:0) ${sexTags=2} __sexb_positions__ __sexb_after__ __actor_m_b__ __clothing2__

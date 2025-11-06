@@ -1,2 +1,2 @@
-__hair_texture__ __hairstyle_length__ __hairstyle_if_messy__ __ext42__
+__hair_texture__ __hairstyle_length__ __hairstyle_if_messy__ __hair_color__
 # __hair_item_if__ __hairstyle_front__ __hairstyle_over_if__ __hair_texture__ __hairstyle__ __hairstyle_ahoge_if__ __hairstyle_if_messy__
