@@ -1,4 +1,5 @@
 (smeared_lipstick), 
+(smeared_lipstick), blue_eyeshadow
 #__clothing_bdsm_components_picker__ __makeup_eyeshadow_color__
 __no__
 __no__

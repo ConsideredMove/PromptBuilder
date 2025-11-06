@@ -1,2 +1,2 @@
-sex, hetero, vaginal, insertion, (Large penis, large insertion,:1)
-sex, hetero, vaginal, insertion, (Large penis, large insertion,:1.2)
+# __sex_insertion_scale_${model}__
+(large insertion:${insertScale})

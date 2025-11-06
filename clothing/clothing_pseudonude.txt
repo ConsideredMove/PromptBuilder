@@ -1,1 +1,1 @@
-__clothing_accessories_if__ __clothing_socks_if__ __clothing_panties_if__ __clothing_shoes_if__
+__clothing_socks_if__ __clothing_panties_if__ __clothing_shoes_if__

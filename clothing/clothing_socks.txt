@@ -1,1 +1,1 @@
-__clothing_socks_main__ __clothing_socks_variant_if__ __clothing_socks_mod_if__ __clothing_socks_mod_if__
+__clothing_socks_main__ __clothing_socks_mod_if__

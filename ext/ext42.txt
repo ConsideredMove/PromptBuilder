@@ -1,0 +1,5 @@
+Black hair,
+Brown hair,
+Blonde hair,
+Orange hair,
+Red hair,

@@ -1,6 +1,10 @@
 Encapsulation: Parent variables < Parent parameters < My variables (But parents aren't affected by child declarations). If there are multiple declarations, only the rightest one is used for all inclusions.
 
-# __orA$(var)(p=__param__)__
+${var=etc} <- direct declaration
+__param(parameter=var)__ <- parameter
+${var} <- variable reference
+
+# __orA${var}(p=__param__)__
 
 expand bdsm options
 utilize new variablizing to enable higher specificity / variety
@@ -26,3 +30,5 @@ Accessory
 panties_on_penis
 
 More pantyhose!
+
+Appendix for bismuth v5: Ultra-hd, 4k, 8k, dramatic lighting, impressionism, cinematic lighting, perfect lighting, textured skin,

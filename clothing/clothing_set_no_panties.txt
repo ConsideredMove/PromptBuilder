@@ -1,0 +1,3 @@
+# Bodystocking,
+__clothing_swimsuit_main__
+__clothing_lingerie__

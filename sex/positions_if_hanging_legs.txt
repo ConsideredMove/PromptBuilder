@@ -1,2 +1,4 @@
 hanging legs, dangling_legs,
+hanging legs, dangling_legs,
+hanging legs, dangling_legs,
 tiptoes,

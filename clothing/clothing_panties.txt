@@ -1,1 +1,11 @@
-__clothing_panties_main__ __clothing_panties_stain_if__ __clothing_panties_status__
+__clothing_panties_main__ __clothing_panties_stain_if__ __orA${bottomAccess}(p=__clothing_panties_off__)__
+__clothing_panties_main__ __clothing_panties_stain_if__ __orA${bottomAccess}(p=__clothing_panties_off__)__
+__clothing_panties_main__ __clothing_panties_stain_if__ __orA${bottomAccess}(p=__clothing_panties_off__)__
+__clothing_panties_main__ __clothing_panties_stain_if__ __orA${bottomAccess}(p=__clothing_panties_off__)__
+__clothing_panties_main__ __clothing_panties_stain_if__ __orA${bottomAccess}(p=__clothing_panties_off__)__
+__clothing_panties_main__ __clothing_panties_stain_if__ __orA${bottomAccess}(p=__clothing_panties_off__)__
+__clothing_panties_main__ __clothing_panties_stain_if__ __orA${bottomAccess}(p=__clothing_panties_off__)__
+__clothing_panties_main__ __clothing_panties_stain_if__ __orA${bottomAccess}(p=__clothing_panties_off__)__
+__clothing_panties_main__ __clothing_panties_stain_if__ __orA${bottomAccess}(p=__clothing_panties_off__)__
+__clothing_panties_main__ __clothing_panties_stain_if__ __orA${bottomAccess}(p=__clothing_panties_off__)__
+pantyhose, __orA${bottomAccess}(p=torn_pantyhose, )__

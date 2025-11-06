@@ -1,32 +1,32 @@
-bikini,
-bikini skirt,
-checkered bikini,
-lowleg bikini,
-micro bikini,
-o-ring bikini,
-o-ring top,
-o-ring bottom,
-shell bikini,
-side-tie bikini bottom,
-sports bikini,
-string bikini,
-tankini,
-thong bikini,
-rash guard,
-old-fashioned swimsuit,
-one-piece swimsuit,
-casual one-piece swimsuit,
-dress swimsuit,
-competition swimsuit,
-school swimsuit,
-slingshot swimsuit,
-bow swimsuit,
-frilled swimsuit,
-frilled bikini,
-highleg swimsuit,
-highleg bikini,
-white bikini,
-g-string,
-thong,
-bikini bottom only,
+bikini, __orA${bottomAccess}(p=bikini_bottom_aside,)__
+bikini skirt, __orA${bottomAccess}(p=bikini_bottom_aside,)__
+checkered bikini, __orA${bottomAccess}(p=bikini_bottom_aside,)__
+lowleg bikini, __orA${bottomAccess}(p=bikini_bottom_aside,)__
+micro bikini, __orA${bottomAccess}(p=bikini_bottom_aside,)__
+o-ring bikini, __orA${bottomAccess}(p=bikini_bottom_aside,)__
+# o-ring top,
+# o-ring bottom,
+# shell bikini,
+side-tie bikini bottom, __orA${bottomAccess}(p=bikini_bottom_aside,)__
+sports bikini, __orA${bottomAccess}(p=bikini_bottom_aside,)__
+string bikini, __orA${bottomAccess}(p=bikini_bottom_aside,)__
+tankini, __orA${bottomAccess}(p=swimsuit_aside,)__
+thong bikini, __orA${bottomAccess}(p=bikini_bottom_aside,)__
+rash guard, __orA${bottomAccess}(p=swimsuit_aside,)__
+old-fashioned swimsuit, __orA${bottomAccess}(p=swimsuit_aside,)__
+one-piece swimsuit, __orA${bottomAccess}(p=swimsuit_aside,)__
+casual one-piece swimsuit, __orA${bottomAccess}(p=swimsuit_aside,)__
+dress swimsuit, __orA${bottomAccess}(p=swimsuit_aside,)__
+competition swimsuit, __orA${bottomAccess}(p=swimsuit_aside,)__
+school swimsuit, __orA${bottomAccess}(p=swimsuit_aside,)__
+slingshot swimsuit, __orA${bottomAccess}(p=swimsuit_aside,)__
+bow swimsuit, __orA${bottomAccess}(p=swimsuit_aside,)__
+frilled swimsuit, __orA${bottomAccess}(p=swimsuit_aside,)__
+frilled bikini, __orA${bottomAccess}(p=bikini_bottom_aside,)__
+highleg swimsuit, __orA${bottomAccess}(p=swimsuit_aside,)__
+highleg bikini, __orA${bottomAccess}(p=bikini_bottom_aside,)__
+white bikini, __orA${bottomAccess}(p=bikini_bottom_aside,)__
+g-string, __orA${bottomAccess}(p=bikini_bottom_aside,)__
+thong, __orA${bottomAccess}(p=bikini_bottom_aside,)__
+bikini bottom only, __orA${bottomAccess}(p=bikini_bottom_aside,)__
 bikini top only,

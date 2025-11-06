@@ -1,6 +1,6 @@
-on desk
-on_counter 
-On bench
-On couch
-On chair
-on_bed 
+on desk, 
+on counter, 
+On bench,
+On couch,
+On chair,
+on bed,

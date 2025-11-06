@@ -1,1 +1,2 @@
-{|motion lines,} {trembling|shaking|spasm|twitching}, {||sound_effects,} {||||||||||||emphasis_lines,}
+{|motion lines,} {trembling|shaking|spasm|twitching}, {||||||||||||emphasis_lines,}
+# ||sound_effects

@@ -1,6 +1,6 @@
-Fox mask
-Mouse mask
-Rabbit mask
+# Fox mask
+# Mouse mask
+# Rabbit mask
 surgical mask
 Domino mask
 Eye mask

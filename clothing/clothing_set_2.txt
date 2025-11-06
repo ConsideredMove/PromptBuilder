@@ -3,11 +3,9 @@ school_uniform, miniskirt,
 babydoll,
 cheerleader,
 sports bra, buruma,
-__clothing_lingerie__
 __clothing_style_bridal__
 karate gi,
 Cocktail dress,
 Evening gown,
-Bodystocking,
 Harem outfit,
-__clothing_swimsuit_main__
+__clothing_bdsm__

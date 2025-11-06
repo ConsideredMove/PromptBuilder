@@ -5,3 +5,4 @@ selfie, reaching towards viewer, looking at viewer,
 official_art, official_wallpaper, Game CG, Poster,
 promotional art
 Zoom_layer
+Blurred background

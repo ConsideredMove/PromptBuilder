@@ -26,3 +26,5 @@ cliff
 beach
 church
 pool, partially underwater shot, partially submerged
+outdoors, on_ground
+beach, towel
