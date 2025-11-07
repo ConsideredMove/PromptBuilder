@@ -1,5 +1,5 @@
-Arched_back,
-Arched_back,
-# bent_over,
+Arched back,
+Arched back,
+# bent over,
 # slouching,
 __no__

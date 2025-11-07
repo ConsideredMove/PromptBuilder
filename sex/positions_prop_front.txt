@@ -1,2 +1,2 @@
 sitting, __positions_prop__
-on_back, __positions_prop__
+on back, __positions_prop__

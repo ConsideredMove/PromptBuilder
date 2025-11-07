@@ -1,4 +1,4 @@
-{tape_gag,|ball_gag,|improvised_gag,} {eye_mask, ||}
+{tape gag,|ball gag,|improvised gag,} {eye mask, ||}
 __no__
 __no__
 __no__

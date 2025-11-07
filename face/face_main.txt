@@ -11,5 +11,5 @@ blush, half-closed eyes, __2if_face_drool__
 disgust, __face_if_blush__
 bored, smug,
 false smile, __2if_face_wide-eyed__ __face_if_blush__
-crazy_smile, __face_if_mouth_openness__ wide-eyed, __face_if_fangs__ __face_if_blush__ __2if_face_uneven_eyes__ 
+crazy smile, __face_if_mouth_openness__ wide-eyed, __face_if_fangs__ __face_if_blush__ __2if_face_uneven_eyes__ 
 parted lips, __2if_face_wide-eyed__ __face_if_blush__

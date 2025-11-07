@@ -1,2 +1,2 @@
-unworn_shorts,
-unworn_skirt,
+unworn shorts,
+unworn skirt,

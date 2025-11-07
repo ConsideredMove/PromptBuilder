@@ -1,6 +1,6 @@
-clothing_aside,
-clothing_aside,
+clothing aside,
+clothing aside,
 bottomless,
 # __unworn__
-# Clothes_pull,
-# clothes_lift,
+# Clothes pull,
+# clothes lift,

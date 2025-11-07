@@ -1,5 +1,5 @@
 ballerina,
-school_uniform, miniskirt,
+school uniform, miniskirt,
 babydoll,
 cheerleader,
 sports bra, buruma,

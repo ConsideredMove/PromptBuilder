@@ -1,2 +1,2 @@
-closed_mouth,
-open_mouth,
+closed mouth,
+open mouth,

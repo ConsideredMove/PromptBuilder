@@ -1,4 +1,4 @@
-Instant_loss
+Instant loss
 multiple views
 Borderless panels
 Collage

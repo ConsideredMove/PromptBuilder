@@ -1,2 +1,2 @@
-unworn_swimsuit,
-unworn_bikini,
+unworn swimsuit,
+unworn bikini,

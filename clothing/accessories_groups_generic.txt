@@ -1,9 +1,9 @@
-{tape_gag|ball_gag|improvised_gag}
+{tape gag|ball gag|improvised gag}
 
 Fishnets, 
 elbow gloves,
 
-# {heart pasties,|bandaids_on_nipples, {bandaid on pussy|}}
+# {heart pasties,|bandaids on nipples, {bandaid on pussy|}}
 
 bracelet,
 anklet,
@@ -11,7 +11,7 @@ anklet,
 Cross necklace,
 necklace
 
-{ribbon_choker|pet_collar}
+{ribbon choker|pet collar}
 
 # {Fake Bunny ears|Fake Cat ears}
 

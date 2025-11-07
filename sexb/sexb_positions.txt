@@ -1,23 +1,23 @@
 (MATING PRESS:0) Mating press, 
 # (SPLIT:0) standing, standing on one leg, __hand_posing_f_c_generic__ __face_if_biting_lip__ __positions_if_against_wall__
-(SIDE:0) (spooning), {|leg up,} lying, on side, leg up, lying_on_side, __positions_if_kissing__ __hand_posing_f_s_behindman__
-(SIDE:0) (spooning), {|leg up,} lying, on side, leg up, lying_on_side, __positions_if_kissing__ __hand_posing_f_s_behindman__
-(SIDE:0) (spooning), {|leg up,} lying, on side, leg up, lying_on_side, __positions_if_kissing__ __hand_posing_f_s_behindman__
+(SIDE:0) (spooning), {|leg up,} lying, on side, leg up, lying on side, __positions_if_kissing__ __hand_posing_f_s_behindman__
+(SIDE:0) (spooning), {|leg up,} lying, on side, leg up, lying on side, __positions_if_kissing__ __hand_posing_f_s_behindman__
+(SIDE:0) (spooning), {|leg up,} lying, on side, leg up, lying on side, __positions_if_kissing__ __hand_posing_f_s_behindman__
 # (SITTING:0) sitting, sitting in lap, sitting on dog, girl on top, straddling, __positions_if_kissing__ __hand_posing_f_s_frontman_neararms__
 __positions_straddling_front__
 (MISSIONARY:0) Missionary, boy on top, {hips up|}, __positions_if_kissing__ __hand_posing_f_s_lying_frontman__
-(ANVIL:0) (Anvil position:1), boy_on_top,
-(PILEDRIVER:0) (piledriver_(sex)), boy_on_top, piledriver, pinned, __hand_posing_f_s_lying__
+(ANVIL:0) (Anvil position:1), boy on top,
+(PILEDRIVER:0) (piledriver_(sex)), boy on top, piledriver, pinned, __hand_posing_f_s_lying__
 # __positions_prop_front__
-# (LAYER Front:0) lying_on_stomach, lying on dog, girl_on_top, __hand_posing_f_s_lying_frontman__
+# (LAYER Front:0) lying on stomach, lying on dog, girl on top, __hand_posing_f_s_lying_frontman__
 
 # (SITTING BACK:0) sitting, sitting in lap, sitting on dog, front-to-back, girl on top, straddling, __hand_posing_f_s_behindman_neararms__ __positions_if_kissing__ __orA${sexTags}(p=sex_from_behind, )__
 # (REVERSE UPRIGHT STRADDLE:0) (reverse upright straddle:1.5), straddle, lying, lying on back, girl on top, __hand_posing_f_s_behindman__ __orA${sexTags}(p=sex_from_behind, )__
 (PRONE BONE:0) boy on top, lying, on stomach, (prone_bone:1), crawling, arched back, __hand_posing_f_s_behindman__ __orA${sexTags}(p=sex_from_behind, )__
-# (LAYER BACK:0) lying_on_back, lying on dog, girl_on_top, front-to-back, __hand_posing_f_s_lying_behindman__ __positions_if_kissing__ __orA${sexTags}(p=sex_from_behind, )__
-(DOGGYSTYLE:0) (doggystyle, all fours), boy_on_top, grabbing from behind, __hand_posing_f_s_behindman__ __orA${sexTags}(p=sex_from_behind, )__
+# (LAYER BACK:0) lying on back, lying on dog, girl on top, front-to-back, __hand_posing_f_s_lying_behindman__ __positions_if_kissing__ __orA${sexTags}(p=sex_from_behind, )__
+(DOGGYSTYLE:0) (doggystyle, all fours), boy on top, grabbing from behind, __hand_posing_f_s_behindman__ __orA${sexTags}(p=sex_from_behind, )__
 (BENT:0) (bent over), doggystyle, grabbing from behind, __positions_if_against_wall__ __hand_posing_f_c_generic__ __orA${sexTags}(p=sex_from_behind, )__
-(TOP DOWN:0) (top-down bottom-up:2), doggystyle, head pinned down, boy_on_top, grabbing from behind, __hand_posing_f_s_lying__ __orA${sexTags}(p=sex_from_behind, )__
+(TOP DOWN:0) (top-down bottom-up:2), doggystyle, head pinned down, boy on top, grabbing from behind, __hand_posing_f_s_lying__ __orA${sexTags}(p=sex_from_behind, )__
 # __positions_prop_behind__ __orA${sexTags}(p=sex_from_behind, )__
 
 # (ASS TO ASS:0) ass-to-ass penetration, all fours __hand_posing_f_c_generic__

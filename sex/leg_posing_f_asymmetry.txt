@@ -1,4 +1,4 @@
-leg_up,
-knee_up,
+leg up,
+knee up,
 __no__
 __no__

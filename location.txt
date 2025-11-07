@@ -2,7 +2,7 @@ School,
 Bed, sheets, bedroom, __location_if_sheet_grab__
 Public indecency,
 Stage lights, stage,
-hotel room, love hotel, red_sheet, heart-shaped pillow, __location_if_sheet_grab__
+hotel room, love hotel, red sheet, heart-shaped pillow, __location_if_sheet_grab__
 otaku room, messy, very crowded, poster (object), __location_if_sheet_grab__
 gym storeroom,
 messy room, __location_if_sheet_grab__
@@ -10,7 +10,7 @@ Otaku room, __location_if_sheet_grab__
 nightclub,
 # Cityscape,
 #Landscape,
-under_covers
+under covers
 changing room
 bathroom
 # bathtub, shared bathing, wet, partially submerged
@@ -26,5 +26,5 @@ cliff
 beach
 church
 pool, partially underwater shot, partially submerged
-outdoors, on_ground
+outdoors, on ground
 beach, towel

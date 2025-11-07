@@ -1,5 +1,5 @@
-bridal_gauntlets, bridal_garter, bridal_legwear, bridal veil, wedding_dress,
-bridal_gauntlets, bridal_garter, bridal_legwear, bridal veil,
-bridal_gauntlets, bridal_garter, bridal_legwear,
-bridal_gauntlets, bridal_garter, bridal_legwear, bridal_lingerie,
-bridal_gauntlets, bridal_garter, bridal_legwear, nude
+bridal gauntlets, bridal garter, bridal legwear, bridal veil, wedding dress,
+bridal gauntlets, bridal garter, bridal legwear, bridal veil,
+bridal gauntlets, bridal garter, bridal legwear,
+bridal gauntlets, bridal garter, bridal legwear, bridal lingerie,
+bridal gauntlets, bridal garter, bridal legwear, nude

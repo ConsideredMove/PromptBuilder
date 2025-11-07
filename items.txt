@@ -1,5 +1,5 @@
-{wine_bottle, wine_glass,|wine_bottle,|wine_glass,}
-Used_condom, __items_condom_in_mouth__
-# unworn_bag,
+{wine bottle, wine glass,|wine bottle,|wine glass,}
+Used condom, __items_condom_in_mouth__
+# unworn bag,
 # Rose,
-# unworn_clothes
+# unworn clothes

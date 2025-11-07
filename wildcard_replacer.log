@@ -1,0 +1,377 @@
+Starting wildcard underscore replacement
+Directory: C:\dev\AI Image\stable-diffusion-webui-reForge\extensions\sd-dynamic-prompts\wildcards\promptBuilder
+Time: 2025-11-06 22:12:45.968992
+============================================================
+
+Processed: !notes.txt - 8 replacements
+Processed: 1wildcard_main.txt - no changes needed
+Processed: 1wildcard_main_full.txt - no changes needed
+Processed: 1wildcard_main_params.txt - no changes needed
+Processed: accent.txt - 2 replacements
+Processed: accent_if_steam.txt - 1 replacements
+Processed: accent_if_sweat.txt - no changes needed
+Processed: angle.txt - no changes needed
+Processed: angle2.txt - 2 replacements
+Processed: angle_composition.txt - 1 replacements
+Processed: angle_main.txt - 2 replacements
+Processed: angle_mod.txt - no changes needed
+Processed: angle_mod_picker.txt - no changes needed
+Processed: color.txt - no changes needed
+Processed: items.txt - 7 replacements
+Processed: items_if.txt - no changes needed
+Processed: lighting.txt - no changes needed
+Processed: location.txt - 3 replacements
+Processed: location_if_sheet_grab.txt - 1 replacements
+Processed: looking_at.txt - 8 replacements
+Processed: makeup_eyeshadow_color.txt - no changes needed
+Processed: makeup_if.txt - 1 replacements
+Processed: style_coloring.txt - no changes needed
+Processed: style_format.txt - no changes needed
+Processed: style_format_comic_picker.txt - no changes needed
+Processed: style_format_comic_variant.txt - 1 replacements
+Processed: style_format_complements.txt - 3 replacements
+Processed: style_format_frame.txt - 3 replacements
+Processed: style_mode.txt - no changes needed
+Processed: clothing\accessories_gag_if.txt - 4 replacements
+Processed: clothing\accessories_groups.txt - no changes needed
+Processed: clothing\accessories_groups_bdsm.txt - 7 replacements
+Processed: clothing\accessories_groups_generic.txt - 7 replacements
+Processed: clothing\accessories_groups_sel.txt - no changes needed
+Processed: clothing\clothing2.txt - no changes needed
+Processed: clothing\clothing2_main.txt - no changes needed
+Processed: clothing\clothing2_w.txt - no changes needed
+Processed: clothing\clothing_access.txt - 4 replacements
+Processed: clothing\clothing_bdsm.txt - no changes needed
+Processed: clothing\clothing_bdsm_bondage.txt - 2 replacements
+Processed: clothing\clothing_bdsm_components.txt - no changes needed
+Processed: clothing\clothing_bdsm_components_picker.txt - no changes needed
+Processed: clothing\clothing_bdsm_main.txt - no changes needed
+Processed: clothing\clothing_bodysuit.txt - no changes needed
+Processed: clothing\clothing_bodysuit_main.txt - no changes needed
+Processed: clothing\clothing_bra.txt - no changes needed
+Processed: clothing\clothing_bra_color.txt - no changes needed
+Processed: clothing\clothing_bra_if.txt - no changes needed
+Processed: clothing\clothing_bra_m.txt - no changes needed
+Processed: clothing\clothing_bra_main.txt - no changes needed
+Processed: clothing\clothing_if_wet.txt - no changes needed
+Processed: clothing\clothing_lingerie.txt - no changes needed
+Processed: clothing\clothing_mask.txt - no changes needed
+Processed: clothing\clothing_mask_if.txt - no changes needed
+Processed: clothing\clothing_mask_if_blindfold_lift.txt - no changes needed
+Processed: clothing\clothing_material.txt - 6 replacements
+Processed: clothing\clothing_panties.txt - no changes needed
+Processed: clothing\clothing_panties_if.txt - no changes needed
+Processed: clothing\clothing_panties_main.txt - no changes needed
+Processed: clothing\clothing_panties_off.txt - 3 replacements
+Processed: clothing\clothing_panties_stain.txt - no changes needed
+Processed: clothing\clothing_panties_stain_if.txt - no changes needed
+Processed: clothing\clothing_panties_unworn.txt - no changes needed
+Processed: clothing\clothing_panties_unworn_if.txt - no changes needed
+Processed: clothing\clothing_panties_unworn_status.txt - no changes needed
+Processed: clothing\clothing_panties_unworn_status_if.txt - no changes needed
+Processed: clothing\clothing_panties_variant.txt - no changes needed
+Processed: clothing\clothing_pseudonude.txt - no changes needed
+Processed: clothing\clothing_set_1.txt - 5 replacements
+Processed: clothing\clothing_set_2.txt - 1 replacements
+Processed: clothing\clothing_set_no_panties.txt - no changes needed
+Processed: clothing\clothing_shoes.txt - no changes needed
+Processed: clothing\clothing_shoes_action.txt - 1 replacements
+Processed: clothing\clothing_shoes_if.txt - no changes needed
+Processed: clothing\clothing_shoes_main.txt - no changes needed
+Processed: clothing\clothing_socks.txt - no changes needed
+Processed: clothing\clothing_socks_if.txt - no changes needed
+Processed: clothing\clothing_socks_main.txt - no changes needed
+Processed: clothing\clothing_socks_mod.txt - no changes needed
+Processed: clothing\clothing_socks_mod_if.txt - no changes needed
+Processed: clothing\clothing_socks_unworn_if.txt - no changes needed
+Processed: clothing\clothing_socks_variant.txt - no changes needed
+Processed: clothing\clothing_socks_variant_if.txt - no changes needed
+Processed: clothing\clothing_style_bridal.txt - 17 replacements
+Processed: clothing\clothing_swimsuit.txt - no changes needed
+Processed: clothing\clothing_swimsuit_conservative.txt - no changes needed
+Processed: clothing\clothing_swimsuit_if.txt - no changes needed
+Processed: clothing\clothing_swimsuit_incomplete.txt - no changes needed
+Processed: clothing\clothing_swimsuit_libertious.txt - no changes needed
+Processed: clothing\clothing_swimsuit_m.txt - no changes needed
+Processed: clothing\clothing_swimsuit_main.txt - no changes needed
+Processed: clothing\clothing_swimsuit_m_if.txt - no changes needed
+Processed: clothing\stripped.txt - 11 replacements
+Processed: clothing\unworn.txt - no changes needed
+Processed: clothing\unworn_bottoms.txt - 2 replacements
+Processed: clothing\unworn_fullbody.txt - 2 replacements
+Processed: clothing\unworn_tops.txt - 2 replacements
+Processed: ext\cum_cross_section.txt - no changes needed
+Processed: ext\cum_xray.txt - no changes needed
+Processed: ext\ext5.txt - no changes needed
+Processed: ext\ext50.txt - no changes needed
+Processed: ext\ext51.txt - no changes needed
+Processed: ext\ext52.txt - no changes needed
+Processed: ext\ext53.txt - no changes needed
+Processed: ext\ext54.txt - no changes needed
+Processed: ext\ext55.txt - no changes needed
+Processed: ext\ext56.txt - no changes needed
+Processed: ext\ext57.txt - no changes needed
+Processed: ext\ext58.txt - no changes needed
+Processed: ext\ext59.txt - no changes needed
+Processed: ext\ext6.txt - no changes needed
+Processed: ext\ext60.txt - no changes needed
+Processed: ext\ext61.txt - no changes needed
+Processed: ext\ext62.txt - no changes needed
+Processed: ext\ext63.txt - no changes needed
+Processed: ext\ext64.txt - no changes needed
+Processed: ext\ext65.txt - no changes needed
+Processed: ext\ext66.txt - no changes needed
+Processed: ext\ext67.txt - no changes needed
+Processed: ext\ext68.txt - no changes needed
+Processed: ext\ext69.txt - no changes needed
+Processed: ext\ext7.txt - no changes needed
+Processed: ext\ext70.txt - no changes needed
+Processed: ext\ext71.txt - no changes needed
+Processed: ext\ext72.txt - no changes needed
+Processed: ext\ext73.txt - no changes needed
+Processed: ext\ext74.txt - no changes needed
+Processed: ext\ext75.txt - no changes needed
+Processed: ext\ext76.txt - no changes needed
+Processed: ext\ext77.txt - no changes needed
+Processed: ext\ext78.txt - no changes needed
+Processed: ext\ext79.txt - no changes needed
+Processed: ext\ext8.txt - no changes needed
+Processed: ext\ext80.txt - no changes needed
+Processed: ext\ext81.txt - no changes needed
+Processed: ext\ext82.txt - no changes needed
+Processed: ext\ext83.txt - no changes needed
+Processed: ext\ext84.txt - no changes needed
+Processed: ext\ext85.txt - no changes needed
+Processed: ext\ext86.txt - no changes needed
+Processed: ext\ext87.txt - no changes needed
+Processed: ext\ext88.txt - no changes needed
+Processed: ext\ext89.txt - no changes needed
+Processed: ext\ext9.txt - no changes needed
+Processed: ext\ext90.txt - no changes needed
+Processed: ext\ext91.txt - no changes needed
+Processed: ext\ext92.txt - no changes needed
+Processed: ext\ext93.txt - no changes needed
+Processed: ext\ext94.txt - no changes needed
+Processed: ext\ext95.txt - no changes needed
+Processed: ext\ext96.txt - no changes needed
+Processed: ext\ext97.txt - no changes needed
+Processed: ext\ext98.txt - no changes needed
+Processed: ext\ext99.txt - 17 replacements
+Processed: ext\hair_color.txt - no changes needed
+Processed: face\2if_face_clenched_teeth.txt - no changes needed
+Processed: face\2if_face_constricted_pupils.txt - no changes needed
+Processed: face\2if_face_crying.txt - no changes needed
+Processed: face\2if_face_crying_eyes_open.txt - no changes needed
+Processed: face\2if_face_drool.txt - no changes needed
+Processed: face\2if_face_heart_pupils.txt - no changes needed
+Processed: face\2if_face_rolling_eyes.txt - 1 replacements
+Processed: face\2if_face_scared_mouth.txt - no changes needed
+Processed: face\2if_face_tongue.txt - no changes needed
+Processed: face\2if_face_uneven_eyes.txt - 1 replacements
+Processed: face\2if_face_wide-eyed.txt - no changes needed
+Processed: face\face.txt - no changes needed
+Processed: face\face2.txt - 2 replacements
+Processed: face\face2_if.txt - no changes needed
+Processed: face\face_if_biting_lip.txt - no changes needed
+Processed: face\face_if_bloodshot.txt - no changes needed
+Processed: face\face_if_blush.txt - no changes needed
+Processed: face\face_if_eyebags.txt - no changes needed
+Processed: face\face_if_fangs.txt - no changes needed
+Processed: face\face_if_mouth_openness.txt - 2 replacements
+Processed: face\face_if_raised_eyebrow.txt - 1 replacements
+Processed: face\face_if_shaded_face.txt - 1 replacements
+Processed: face\face_if_smirk.txt - no changes needed
+Processed: face\face_main.txt - 1 replacements
+Processed: face\if_face_50.txt - no changes needed
+Processed: face\if_heart.txt - no changes needed
+Processed: hair\hair.txt - no changes needed
+Processed: hair\hairstyle.txt - no changes needed
+Processed: hair\hairstyle_ahoge.txt - no changes needed
+Processed: hair\hairstyle_ahoge_if.txt - no changes needed
+Processed: hair\hairstyle_front.txt - no changes needed
+Processed: hair\hairstyle_if_messy.txt - no changes needed
+Processed: hair\hairstyle_length.txt - no changes needed
+Processed: hair\hairstyle_over.txt - no changes needed
+Processed: hair\hairstyle_over_if.txt - no changes needed
+Processed: hair\hair_item.txt - no changes needed
+Processed: hair\hair_item_if.txt - no changes needed
+Processed: hair\hair_texture.txt - no changes needed
+Processed: logic\no.txt - no changes needed
+Processed: logic\orA1.txt - no changes needed
+Processed: logic\orA2.txt - no changes needed
+Processed: logic\orA3.txt - no changes needed
+Processed: logic\orA4.txt - no changes needed
+Processed: logic\orA5.txt - no changes needed
+Processed: logic\orA6.txt - no changes needed
+Processed: logic\orB1.txt - no changes needed
+Processed: logic\orB2.txt - no changes needed
+Processed: logic\orB3.txt - no changes needed
+Processed: logic\orB4.txt - no changes needed
+Processed: logic\orB5.txt - no changes needed
+Processed: logic\orB6.txt - no changes needed
+Processed: logic\orC1.txt - no changes needed
+Processed: logic\orC2.txt - no changes needed
+Processed: logic\orC3.txt - no changes needed
+Processed: logic\orC4.txt - no changes needed
+Processed: logic\orC5.txt - no changes needed
+Processed: logic\orC6.txt - no changes needed
+Processed: logic\orD1.txt - no changes needed
+Processed: logic\orD2.txt - no changes needed
+Processed: logic\orD3.txt - no changes needed
+Processed: logic\orD4.txt - no changes needed
+Processed: logic\orD5.txt - no changes needed
+Processed: logic\orD6.txt - no changes needed
+Processed: logic\orE1.txt - no changes needed
+Processed: logic\orE2.txt - no changes needed
+Processed: logic\orE3.txt - no changes needed
+Processed: logic\orE4.txt - no changes needed
+Processed: logic\orE5.txt - no changes needed
+Processed: logic\orE6.txt - no changes needed
+Processed: logic\orF1.txt - no changes needed
+Processed: logic\orF2.txt - no changes needed
+Processed: logic\orF3.txt - no changes needed
+Processed: logic\orF4.txt - no changes needed
+Processed: logic\orF5.txt - no changes needed
+Processed: logic\orF6.txt - no changes needed
+Processed: logic\pick2.txt - no changes needed
+Processed: sex\actor_m.txt - no changes needed
+Processed: sex\cum.txt - no changes needed
+Processed: sex\cum_covered.txt - no changes needed
+Processed: sex\cum_on.txt - no changes needed
+Processed: sex\cum_region.txt - 16 replacements
+Processed: sex\foot_posing_f.txt - no changes needed
+Processed: sex\foot_posing_if.txt - no changes needed
+Processed: sex\hand_posing_nofront.txt - no changes needed
+Processed: sex\if_condom_in_mouth.txt - 2 replacements
+Processed: sex\leg_posing_f.txt - 5 replacements
+Processed: sex\leg_posing_f_asymmetry.txt - 2 replacements
+Processed: sex\leg_posing_f_behindman.txt - 2 replacements
+Processed: sex\leg_posing_f_frontman.txt - no changes needed
+Processed: sex\marking.txt - no changes needed
+Processed: sex\marking_love.txt - no changes needed
+Processed: sex\marking_love_picker.txt - no changes needed
+Processed: sex\marking_viol.txt - no changes needed
+Processed: sex\posing_f_generic.txt - no changes needed
+Processed: sex\posing_f_generic_noheadback.txt - no changes needed
+Processed: sex\positions_behind.txt - no changes needed
+Processed: sex\positions_behind_main.txt - 16 replacements
+Processed: sex\positions_front.txt - 1 replacements
+Processed: sex\positions_if_against_wall.txt - no changes needed
+Processed: sex\positions_if_forced_hug.txt - 3 replacements
+Processed: sex\positions_if_hanging_legs.txt - 3 replacements
+Processed: sex\positions_if_kissing.txt - 4 replacements
+Processed: sex\positions_if_nelson.txt - no changes needed
+Processed: sex\positions_if_tiptoe.txt - no changes needed
+Processed: sex\positions_insertion.txt - no changes needed
+Processed: sex\positions_insertion_main.txt - no changes needed
+Processed: sex\positions_noninserted.txt - no changes needed
+Processed: sex\positions_prop.txt - no changes needed
+Processed: sex\positions_prop_behind.txt - 2 replacements
+Processed: sex\positions_prop_front.txt - 1 replacements
+Processed: sex\positions_straddling_front.txt - no changes needed
+Processed: sex\posture_back.txt - 3 replacements
+Processed: sex\posture_if_head_back.txt - no changes needed
+Processed: sex\sex.txt - no changes needed
+Processed: sex\sex_aftersex.txt - no changes needed
+Processed: sex\sex_if_blood_or_juice.txt - no changes needed
+Processed: sex\sex_if_condom_inside.txt - 2 replacements
+Processed: sex\sex_if_cum.txt - no changes needed
+Processed: sex\sex_if_female_orgasm.txt - no changes needed
+Processed: sex\sex_if_juice.txt - no changes needed
+Processed: sex\sex_if_stomach_bulge.txt - no changes needed
+Processed: sex\sex_imminent.txt - 4 replacements
+Processed: sex\sex_insertion_scale.txt - no changes needed
+Processed: sex\sex_on.txt - no changes needed
+Processed: sex\sex_penis_scale.txt - no changes needed
+Processed: sex\sex_spread_pussy.txt - 2 replacements
+Processed: sex\sex_thighsex.txt - no changes needed
+Processed: sex\situation.txt - 13 replacements
+Processed: sex\solo_posing.txt - 107 replacements
+Processed: sexb\actor_m_b.txt - 4 replacements
+Processed: sexb\sexb.txt - 1 replacements
+Processed: sexb\sexb_after.txt - no changes needed
+Processed: sexb\sexb_imminent.txt - 4 replacements
+Processed: sexb\sexb_penetration_style.txt - no changes needed
+Processed: sexb\sexb_positions.txt - 22 replacements
+Processed: style\style.txt - no changes needed
+Processed: style\style_picker.txt - 6 replacements
+Processed: style\style_random.txt - 24 replacements
+Processed: style\style_randopicker.txt - no changes needed
+Processed: style\style_strength_proxy.txt - no changes needed
+Processed: clothing\old\clothing.txt - no changes needed
+Processed: clothing\old\clothing_accessories.txt - no changes needed
+Processed: clothing\old\clothing_accessories_arm.txt - no changes needed
+Processed: clothing\old\clothing_accessories_arm_if.txt - no changes needed
+Processed: clothing\old\clothing_accessories_if.txt - no changes needed
+Processed: clothing\old\clothing_accessories_neck_shoulders.txt - 2 replacements
+Processed: clothing\old\clothing_accessories_neck_shoulders_if.txt - no changes needed
+Processed: clothing\old\clothing_accessories_torso_misc.txt - no changes needed
+Processed: clothing\old\clothing_accessories_torso_misc_if.txt - no changes needed
+Processed: clothing\old\clothing_dress.txt - no changes needed
+Processed: clothing\old\clothing_dress_color.txt - no changes needed
+Processed: clothing\old\clothing_dress_main.txt - no changes needed
+Processed: clothing\old\clothing_dress_status.txt - no changes needed
+Processed: clothing\old\clothing_dress_status_if.txt - no changes needed
+Processed: clothing\old\clothing_dress_variant.txt - no changes needed
+Processed: clothing\old\clothing_dress_variant_if.txt - no changes needed
+Processed: clothing\old\clothing_fullbody.txt - no changes needed
+Processed: clothing\old\clothing_main.txt - no changes needed
+Processed: clothing\old\clothing_prefab.txt - no changes needed
+Processed: clothing\old\clothing_prefab_if.txt - no changes needed
+Processed: clothing\old\exposure.txt - no changes needed
+Processed: clothing\old\exposure_bottom.txt - 2 replacements
+Processed: clothing\old\exposure_breast.txt - no changes needed
+Processed: clothing\old\exposure_breast_if.txt - no changes needed
+Processed: clothing\old\exposure_full.txt - no changes needed
+Processed: clothing\old\exposure_main.txt - no changes needed
+Processed: clothing\old\exposure_main_if.txt - no changes needed
+Processed: clothing\old\exposure_shoulder.txt - no changes needed
+Processed: clothing\old\exposure_shoulder_if.txt - no changes needed
+Processed: clothing\old\exposure_torso.txt - no changes needed
+Processed: clothing\old\exposure_torso_if.txt - no changes needed
+Processed: clothing\old\exposure_vaginal.txt - no changes needed
+Processed: clothing\old\exposure_vaginal_if.txt - no changes needed
+Processed: clothing\old\unworn_layer.txt - 21 replacements
+Processed: clothing\old\unworn_layer_picker.txt - no changes needed
+Processed: sex\hand_posing_f\adds.txt - no changes needed
+Processed: sex\hand_posing_f\hand_posing_f.txt - 6 replacements
+Processed: sex\hand_posing_f\hand_posing_f_c_behindman.txt - no changes needed
+Processed: sex\hand_posing_f\hand_posing_f_c_face.txt - no changes needed
+Processed: sex\hand_posing_f\hand_posing_f_c_frontman.txt - 4 replacements
+Processed: sex\hand_posing_f\hand_posing_f_c_generic.txt - 15 replacements
+Processed: sex\hand_posing_f\hand_posing_f_c_ground.txt - 1 replacements
+Processed: sex\hand_posing_f\hand_posing_f_c_lying.txt - 1 replacements
+Processed: sex\hand_posing_f\hand_posing_f_c_neararms.txt - 3 replacements
+Processed: sex\hand_posing_f\hand_posing_f_old.txt - 17 replacements
+Processed: sex\hand_posing_f\hand_posing_f_s_behindman.txt - no changes needed
+Processed: sex\hand_posing_f\hand_posing_f_s_behindman_neararms.txt - no changes needed
+Processed: sex\hand_posing_f\hand_posing_f_s_frontman.txt - no changes needed
+Processed: sex\hand_posing_f\hand_posing_f_s_frontman_neararms.txt - no changes needed
+Processed: sex\hand_posing_f\hand_posing_f_s_lying.txt - no changes needed
+Processed: sex\hand_posing_f\hand_posing_f_s_lying_behindman.txt - no changes needed
+Processed: sex\hand_posing_f\hand_posing_f_s_lying_frontman.txt - no changes needed
+Processed: sex\hand_posing_m\hand_posing_m - Copy.txt - 3 replacements
+Processed: sex\hand_posing_m\hand_posing_m.txt - no changes needed
+Processed: sex\hand_posing_m\hand_posing_m_ass_only.txt - no changes needed
+Processed: sex\hand_posing_m\hand_posing_m_breast.txt - no changes needed
+Processed: sex\hand_posing_m\hand_posing_m_carry.txt - 4 replacements
+Processed: sex\hand_posing_m\hand_posing_m_c_feet.txt - 1 replacements
+Processed: sex\hand_posing_m\hand_posing_m_c_head.txt - 6 replacements
+Processed: sex\hand_posing_m\hand_posing_m_c_head_no_lock.txt - 2 replacements
+Processed: sex\hand_posing_m\hand_posing_m_c_thighs.txt - 1 replacements
+Processed: sex\hand_posing_m\hand_posing_m_c_torso.txt - no changes needed
+Processed: sex\hand_posing_m\hand_posing_m_side.txt - no changes needed
+Processed: sex\hand_posing_m\hand_posing_m_split.txt - 1 replacements
+ERROR in sex\hand_posing_m\hand_posing_m_standing.txt: Malformed wildcard: unpaired __ detected
+Processed: sex\hand_posing_m\hand_posing_m_s_no_lock.txt - no changes needed
+Processed: sex\hand_posing_m\hand_posing_m_s_thighs_up.txt - no changes needed
+Processed: sex\model\sex_insertion_scale_2dn.txt - no changes needed
+Processed: sex\model\sex_insertion_scale_bismuth.txt - no changes needed
+Processed: sex\model\sex_insertion_scale_generic.txt - no changes needed
+Processed: sex\model\sex_insertion_scale_wai.txt - no changes needed
+
+============================================================
+SUMMARY
+Files processed: 365
+Total replacements: 482
+Errors: 1
