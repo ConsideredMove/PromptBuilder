@@ -5,7 +5,10 @@ __param(parameter=var)__ <- parameter
 ${var} <- variable reference
 
 # __orA${var}(p=__param__)__
-
+# __orB${var}(p2=__param__)__
+# __orC${var}(p3=__param__)__
+# __orD${var}(p4=__param__)__
+# etc... 
 expand bdsm options
 utilize new variablizing to enable higher specificity / variety
 explore more sexual options
@@ -32,3 +35,9 @@ panties on penis
 More pantyhose!
 
 Appendix for bismuth v5: Ultra-hd, 4k, 8k, dramatic lighting, impressionism, cinematic lighting, perfect lighting, textured skin,
+
+underwear, white panties, shoulder peek, breast pocket, sweatpants,  tank_top, pants pull, bags under eyes, panties aside, pants around one leg,
+
+
+t-shirt, underwear, white panties, shoulder peek, breast pocket, jeans,  white shirt, collared shirt, long sleeves, pants pull, bags under eyes, panties aside, 
+(kirlia, pokemon, pokephilia, green hair, green skin, white skin, white skirt)

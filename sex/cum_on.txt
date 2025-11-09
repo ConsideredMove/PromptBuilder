@@ -1,3 +1,2 @@
 __cum_covered__
 # __cum_region__
-__no__

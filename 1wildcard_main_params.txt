@@ -1,1 +1,1 @@
-__1wildcard_main(insertScale=1.2)__
+__1wildcard_main(insertScale=1.2, sexMode=situation, fActor=!__actor_f__, kirlia=2)__

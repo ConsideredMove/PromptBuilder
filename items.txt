@@ -1,5 +1,17 @@
 {wine bottle, wine glass,|wine bottle,|wine glass,}
-Used condom, __items_condom_in_mouth__
+soda_can
+disposable_cup
+liquor
+beer_bottle
+__cum_used_condom__
 # unworn bag,
 # Rose,
 # unworn clothes
+pill,
+water bottle,
+school_bag, unworn_bag,
+shoulder_bag, unworn_bag,
+smartphone,
+syringe,
+computer
+holding condom

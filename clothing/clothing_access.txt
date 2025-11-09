@@ -1,6 +1,1 @@
-clothing aside,
-clothing aside,
-bottomless,
-# __unworn__
-# Clothes pull,
-# clothes lift,
+__orB${kirlia}(p2=__clothing_accessL2__)__

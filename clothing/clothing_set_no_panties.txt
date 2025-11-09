@@ -1,3 +1,11 @@
 # Bodystocking,
+negligee,
+nightgown,
+bathrobe,
+unitard,
+short jumpsuit,
+leotard,
+bodystocking,
+sarong,
 __clothing_swimsuit_main__
 __clothing_lingerie__

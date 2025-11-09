@@ -16,6 +16,7 @@ bathroom
 # bathtub, shared bathing, wet, partially submerged
 toilet stall
 # shower, shared bathing, wet, partially submerged
+shower, wet
 gym
 prison cell
 poolcave

@@ -1,1 +1,1 @@
-__posture_back__ __posture_if_head_back__ __foot_posing_f__ __leg_posing_f_asymmetry__
+__posture_back__ __posture_if_head_back__ __orA${footOrShoe}(p=__foot_posing_f__)__ __leg_posing_f_asymmetry__

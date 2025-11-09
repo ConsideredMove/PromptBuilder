@@ -1,1 +1,1 @@
-__clothing_shoes_main__ __clothing_shoes_action__
+__orB${footOrShoe}(p2=__clothing_shoes_main__ __clothing_shoes_action__)__
