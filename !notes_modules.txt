@@ -1,0 +1,35 @@
+--- FreeU: 1.01 / 1.02 / 0.99 / 0.95
+
+b1: 1 ≤ b1 ≤ 1.2
+b2: 1.2 ≤ b2 ≤ 1.6
+s1: s1 ≤ 1
+s2: s2 ≤ 1
+
+SDXL
+b1: 1.3, b2: 1.4, s1: 0.9, s2: 0.2 SDXL results
+
+S values 0 = interesting effect.
+
+1.5 / 1 / 0.99 / 0.26
+1.4 / 1 / 0.75 / 0.25
+
+B1: Lineness versus color saturation? <Lineness, larger, brighter > realism, smaller
+B2: Makes things worse if not 1.
+S1: < Size difference, saturation
+S2: 
+
+--- APG: 
+Defaults: 1.5 / 0.18 / 15 / 1
+5.42 / 0.28
+
+APG's now your CFG - After many test generations, I feel this extension improves the overall image coherence. I have all the settings set to default except APG Norm Threshold which was changed to 25. [Not used for V-pred models]
+
+___ SKIMMEDCFG:
+Dual scales 3/7 is pretty nice.
+
+
+--- LatentModifer:
+Noise ~3 without checkbox? With it seems like it is ineffective.
+Dyncfg - third option interesting!
+
+Combat cfg drift (sharpen) increases brightness. Phi causes a noise crash around 1. Otherwise reduces contrast.

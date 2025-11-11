@@ -1,1 +1,1 @@
-(CLOTHING:0) __orB${pickChar}(p2=__clothing2_main__)__ __orA${pickChar}(p=__clothing_access__)__
+(CLOTHING:0) __clothing2_main__

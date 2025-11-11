@@ -41,3 +41,8 @@ underwear, white panties, shoulder peek, breast pocket, sweatpants,  tank_top, p
 
 t-shirt, underwear, white panties, shoulder peek, breast pocket, jeans,  white shirt, collared shirt, long sleeves, pants pull, bags under eyes, panties aside, 
 (kirlia, pokemon, pokephilia, green hair, green skin, white skin, white skirt)
+elf female, blonde hair, pale skin, small breasts, skinny, (emaciated:0.5) narrow waist, tall female, toned female,
+
+(dynamic pose:1.3), (dynamic angle:1.2), on recliner, upside down, feet up,
+
+1girl, solo, arched back, miniskirt, string bikini, small breasts, cigarette, blonde hair, roots \(hair\), smirk, choker,

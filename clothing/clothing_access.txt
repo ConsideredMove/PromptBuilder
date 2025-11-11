@@ -1,1 +1,1 @@
-__orB${kirlia}(p2=__clothing_accessL2__)__
+__clothing_accessL2__
