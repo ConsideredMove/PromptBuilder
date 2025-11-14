@@ -1,3 +1,4 @@
+__orA${comment}(p=__param__)__(PENETRATION:0) __sex__
 (PENETRATION:0) __sex__
 (PENETRATION:0) __sex__
 (PENETRATION:0) __sex__
@@ -13,13 +14,13 @@
 (PENETRATION:0) __sex__
 (PENETRATION:0) __sex__
 (PENETRATION:0) __sex__
-(PENETRATION:0) __sex__
-(IMMINENT:0) __sex_imminent__ __positions_noninserted__ __sex_spread_pussy__
-(IMMINENT STOMACH:0) __sex_imminent__ penis on stomach, 
-(THIGH SEX:0) __sex_thighsex__ __sex_imminent__ __hand_posing_f__ __Hand_posing_m_s_thighs_up__ __sex_penis_scale__
-(AFTERSEX:0) __sex_if_cum__ __positions_insertion_main__ __sex_aftersex__ __cum__ __cum_on__ __sex_penis_scale__
-(FACE:0) __sex_imminent__ penis on face,{|||lipstick mark on penis, lipstick, }{penis over eyes, penis over one eye, |||} penis awe,  female masturbation, constricted pupils, __${appearance}__
-(FELLATIO:0) __sex_imminent__ {irrumatio, |fellatio, }head grab, throat bulge, {grabbing another's hair, |||}{female masturbation, |__hand_posing_f_c_generic__} {cum in mouth, cum overflow, ||} __${appearance}__
-(UNDRESSING:0) undressing, __${appearance}__
-(POSING:0) __solo_posing__ solo, dynamic pose,
-(CREEP:0) solo, {walking, |running, |standing, } {from above, |from below, }__exposure__ __${appearance}__
+(IMMINENT:0) __positions_noninserted__ __sex_imminent__
+(IMMINENT STOMACH:0) __positions_noninserted__ __sex_penis_on_stomach__
+(THIGH SEX:0) __sex_thighsex__ __Hand_posing_m_s_thighs_up__ 
+(AFTERSEX:0) __positions_noninserted__ __sex_aftersex__
+(FACE:0) __${appearance}__ __sex_imminent__ penis on face,{|||lipstick mark on penis, lipstick, }{penis over eyes, penis over one eye, |||} penis awe, {female masturbation, |}constricted pupils,
+(FELLATIO:0) __${appearance}__ __sex_imminent__ {irrumatio, |fellatio, }head grab, throat bulge, {grabbing another's hair, |||}{female masturbation, |__hand_posing_f_c_generic__} {cum in mouth, cum overflow, ||} 
+(UNDRESSING:0) __${appearance}__ undressing, 
+# (POSING:0) {__solo_posing__|__solo_posing_2__} solo, dynamic pose,
+# (CREEP:0)  __${appearance}__ solo, {walking, |running, |standing, } {from above, |from below, }__exposure__
+# (CLOSEUP:0) {__positions_insertion_main__|} __sex_insertion_scale__ (rough sex), __sex_if_blood_or_juice__ __sex_if_stomach_bulge__ {close-up|(close-up:2)}, {pussy focus|}, {gaping|}, {spreading own pussy|}, __sex_if_cum__

@@ -1,14 +1,12 @@
-(MATING PRESS:0) (Mating press, sex, hetero, vaginal:2), 
-(CARRYING:0) (suspended congress:1.5), suspension, Standing sex, lifting person, __positions_if_hanging_legs__ __hand_posing_m_carry__ __positions_if_kissing__ __hand_posing_f_s_frontman__ __positions_if_against_wall__
-(SPLIT:0) standing, standing on one leg, __hand_posing_m_split__ __hand_posing_f_c_generic__ __face_if_biting_lip__ __positions_if_against_wall__
-(SPLIT 2:0)  standing split:2), split, tiptoes, balancing, __hand_posing_m_split__ __hand_posing_f_c_generic__ __face_if_biting_lip__ __positions_if_against_wall__
+(MATING PRESS:0) (Mating press:1.5), 
+(CARRYING:0) (suspended congress, Standing sex, lifting person, hanging legs:1.5), __hand_posing_m_carry__ __positions_if_kissing__ __hand_posing_f_s_frontman__ __positions_if_against_wall__
+(SPLIT:0) (standing, standing on one leg:1.5), __hand_posing_m_split__ __hand_posing_f_c_generic__ __face_if_biting_lip__ __positions_if_against_wall__
+(SPLIT 2:0) (standing split, split, tiptoes, balancing:1.5), __hand_posing_m_split__ __hand_posing_f_c_generic__ __face_if_biting_lip__ __positions_if_against_wall__
 (SIDE:0) (spooning:2), leg up, lying, on side, leg up, lying_on_side, __hand_posing_m_s_thighs_up__ __positions_if_kissing__ __hand_posing_f_s_behindman__
-(SIDE:0) (spooning:2), leg up, lying, on side, leg up, lying_on_side, __hand_posing_m_s_thighs_up__ __positions_if_kissing__ __hand_posing_f_s_behindman__
-(SIDE:0) (spooning:2), leg up, lying, on side, leg up, lying_on_side, __hand_posing_m_s_thighs_up__ __positions_if_kissing__ __hand_posing_f_s_behindman__
-(SITTING:0) sitting, sitting on person, on lap, sitting on lap,  girl on top, straddling, __hand_posing_m_s_thighs_up__ __positions_if_kissing__ __hand_posing_f_s_frontman_neararms__
+(SITTING:0) (sitting, sitting on person, on lap, sitting on lap,  girl on top, {straddling|}:1.5), __hand_posing_m_s_thighs_up__ __positions_if_kissing__ __hand_posing_f_s_frontman_neararms__
 __positions_straddling_front__
-(MISSIONARY:0) Missionary, boy on top, {hips up|}, __hand_posing_m_s_no_lock__ __positions_if_kissing__ __hand_posing_f_s_lying_frontman__
-(ANVIL:0) (Anvil position:1), boy_on_top, __hand_posing_m_s_no_lock__
-(PILEDRIVER:0) (piledriver (sex):1.5), boy_on_top, piledriver, pinned, __hand_posing_m_c_thighs__ __hand_posing_f_s_lying__
+(MISSIONARY:0) (Missionary:1.5), boy on top, lying, on back, {hips up|}, __hand_posing_m_s_no_lock__ __positions_if_kissing__ __hand_posing_f_s_lying_frontman__
+(ANVIL:0) (Anvil position, boy_on_top:1.5), __hand_posing_m_s_no_lock__
+(PILEDRIVER:0) (piledriver (sex), boy_on_top:1.5), pinned, __hand_posing_m_c_thighs__ __hand_posing_f_s_lying__
 __positions_prop_front__
-(LAYER Front:0) lying_on_person, lying_on_stomach, girl_on_top, __hand_posing_f_s_lying_frontman__ __hand_posing_m_s_thighs_up__
+(LAYER Front:0) (lying_on_person, lying_on_stomach, girl_on_top:1.5), __hand_posing_f_s_lying_frontman__ __hand_posing_m_s_thighs_up__

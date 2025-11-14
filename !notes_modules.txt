@@ -33,3 +33,35 @@ Noise ~3 without checkbox? With it seems like it is ineffective.
 Dyncfg - third option interesting!
 
 Combat cfg drift (sharpen) increases brightness. Phi causes a noise crash around 1. Otherwise reduces contrast.
+
+Sharpness 6 aniso + Adv 8 / 0?
+20 c / 5 1
+18 c / 255 0
+
+Divisive norm multiplier best at 0, otherwise details blget samaged
+
+
+
+Cfg drift - brightness
+Cfg pi - -*contrast
+
+Cfg drift 0-1 on subtract seems to help brightness.
+
+Cfg: Brightness
+Cfg: Wacky colors <> grey noise mush
+
+Subtract = darkest
+Channels = brighter
+Median = balanced
+
+Sharpness can be 18 with 255 divisive norm + otherwise use 12
+
+Final
+15 sharpness c, 
+Tonemap 0.75 spatial,
+Divisive normalization yes,
+Halfcosine-mimic
+
+Divisive norm 1/1 changea the image, but better suppresses noise artifacts.
+
+Cfgimic tonemap has interesting lighting.

@@ -1,3 +1,15 @@
-doujima nanako, 
-takagi-san
-asuka_langley_souryuu
+doujima nanako,
+takagi-san,
+asuka_langley_souryuu,
+gwen_stacy,
+dawn (pokemon),
+iris (pokemon),
+lana (pokemon),
+lillie (pokemon),
+mallow (pokemon),
+may (pokemon),
+misty (pokemon),
+bea (pokemon),
+nessa (pokemon),
+rosa (pokemon),
+nemona (pokemon),

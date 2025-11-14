@@ -10,3 +10,4 @@ traumatized, despair, __face_if_shaded_face__ __face_if_bloodshot__ __2if_face_w
 flustered, embarrassment, __face_if_blush__ 
 false smile, __2if_face_wide-eyed__ __face_if_eyebags__ __face_if_bloodshot__
 blush, half-closed eyes, __2if_face_drool__ 
+parted lips, __face_if_blush__
