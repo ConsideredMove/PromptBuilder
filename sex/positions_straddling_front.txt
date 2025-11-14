@@ -1,3 +1,3 @@
-(SQUATTING COWGIRL POSITION:0) (squatting cowgirl position:1.5), lying, girl on top, lying on back, __hand_posing_m_s_thighs_up__ straddle, __hand_posing_f_s_frontman__
-(UPRIGHT STRADDLE:0) (upright straddle:1.5), lying, girl on top, lying on back, __hand_posing_m_s_thighs_up__ straddle, __hand_posing_f_s_frontman__
-(COWGIRL POSITION:0) (cowgirl position:1.5), lying, girl on top, lying on back, __hand_posing_m_s_thighs_up__ straddle, __hand_posing_f_s_frontman__
+__com(c=SQUATTING COWGIRL POSITION)__ (squatting cowgirl position:1.5), lying, girl on top, lying on back, __hand_posing_m_s_thighs_up__ straddle, __hand_posing_f_s_frontman__
+__com(c=UPRIGHT STRADDLE)__ (upright straddle:1.5), lying, girl on top, lying on back, __hand_posing_m_s_thighs_up__ straddle, __hand_posing_f_s_frontman__
+__com(c=COWGIRL POSITION)__ (cowgirl position:1.5), lying, girl on top, lying on back, __hand_posing_m_s_thighs_up__ straddle, __hand_posing_f_s_frontman__

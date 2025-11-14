@@ -1,26 +1,26 @@
-__orA${comment}(p=__param__)__(PENETRATION:0) __sex__
-(PENETRATION:0) __sex__
-(PENETRATION:0) __sex__
-(PENETRATION:0) __sex__
-(PENETRATION:0) __sex__
-(PENETRATION:0) __sex__
-(PENETRATION:0) __sex__
-(PENETRATION:0) __sex__
-(PENETRATION:0) __sex__
-(PENETRATION:0) __sex__
-(PENETRATION:0) __sex__
-(PENETRATION:0) __sex__
-(PENETRATION:0) __sex__
-(PENETRATION:0) __sex__
-(PENETRATION:0) __sex__
-(PENETRATION:0) __sex__
-(IMMINENT:0) __positions_noninserted__ __sex_imminent__
-(IMMINENT STOMACH:0) __positions_noninserted__ __sex_penis_on_stomach__
-(THIGH SEX:0) __sex_thighsex__ __Hand_posing_m_s_thighs_up__ 
-(AFTERSEX:0) __positions_noninserted__ __sex_aftersex__
-(FACE:0) __${appearance}__ __sex_imminent__ penis on face,{|||lipstick mark on penis, lipstick, }{penis over eyes, penis over one eye, |||} penis awe, {female masturbation, |}constricted pupils,
-(FELLATIO:0) __${appearance}__ __sex_imminent__ {irrumatio, |fellatio, }head grab, throat bulge, {grabbing another's hair, |||}{female masturbation, |__hand_posing_f_c_generic__} {cum in mouth, cum overflow, ||} 
-(UNDRESSING:0) __${appearance}__ undressing, 
-# (POSING:0) {__solo_posing__|__solo_posing_2__} solo, dynamic pose,
-# (CREEP:0)  __${appearance}__ solo, {walking, |running, |standing, } {from above, |from below, }__exposure__
-# (CLOSEUP:0) {__positions_insertion_main__|} __sex_insertion_scale__ (rough sex), __sex_if_blood_or_juice__ __sex_if_stomach_bulge__ {close-up|(close-up:2)}, {pussy focus|}, {gaping|}, {spreading own pussy|}, __sex_if_cum__
+__orA${comment}(p=__param__)____com(c=PENETRATION)__ __sex__
+__com(c=PENETRATION)__ __sex__
+__com(c=PENETRATION)__ __sex__
+__com(c=PENETRATION)__ __sex__
+__com(c=PENETRATION)__ __sex__
+__com(c=PENETRATION)__ __sex__
+__com(c=PENETRATION)__ __sex__
+__com(c=PENETRATION)__ __sex__
+__com(c=PENETRATION)__ __sex__
+__com(c=PENETRATION)__ __sex__
+__com(c=PENETRATION)__ __sex__
+__com(c=PENETRATION)__ __sex__
+__com(c=PENETRATION)__ __sex__
+__com(c=PENETRATION)__ __sex__
+__com(c=PENETRATION)__ __sex__
+__com(c=PENETRATION)__ __sex__
+__com(c=IMMINENT)__ __positions_noninserted__ __sex_imminent__
+__com(c=IMMINENT STOMACH)__ __positions_noninserted__ __sex_penis_on_stomach__
+__com(c=THIGH SEX)__ __sex_thighsex__ __Hand_posing_m_s_thighs_up__ 
+__com(c=AFTERSEX)__ __positions_noninserted__ __sex_aftersex__
+__com(c=FACE)__ __sex_imminent__ penis on face,{|||lipstick mark on penis, lipstick, }{penis over eyes, penis over one eye, |||} penis awe, {female masturbation, |}constricted pupils, __${appearance}__
+__com(c=FELLATIO)__ __sex_imminent__ {irrumatio, |fellatio, }head grab, throat bulge, {grabbing another's hair, |||}{female masturbation, |__hand_posing_f_c_generic__} {cum in mouth, cum overflow, ||} __${appearance}__
+__com(c=UNDRESSING)__ undressing, __${appearance}__
+# __com(c=POSING)__ {__solo_posing__|__solo_posing_2__} solo, dynamic pose,
+# __com(c=CREEP)__  __${appearance}__ solo, {walking, |running, |standing, } {from above, |from below, }__exposure__
+# __com(c=CLOSEUP)__ {__positions_insertion_main__|} __sex_insertion_scale__ (rough sex), __sex_if_blood_or_juice__ __sex_if_stomach_bulge__ {close-up|(close-up:2)}, {pussy focus|}, {gaping|}, {spreading own pussy|}, __sex_if_cum__

@@ -1,4 +1,4 @@
-__clothing2__ (HAIR:0) __hair__ (SKIN:0) __skin__
-__clothing2__ (HAIR:0) __hair__ (SKIN:0) __skin__
-__clothing2__ (HAIR:0) __hair__ (SKIN:0) __skin__
-(ACTOR F:0) __actor_f__
+__clothing2__ __com(c=HAIR)__ __hair__ __com(c=SKIN)__ __skin__
+__clothing2__ __com(c=HAIR)__ __hair__ __com(c=SKIN)__ __skin__
+__clothing2__ __com(c=HAIR)__ __hair__ __com(c=SKIN)__ __skin__
+__com(c=ACTOR F)__ __actor_f__

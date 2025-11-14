@@ -1,1 +1,1 @@
-__actor_m__ (**Posing**:0) __${appearance}__ __posing_f_generic__ BREAK
+__actor_m__ __com(c=**Posing**)__ __${appearance}__ __posing_f_generic__ BREAK
