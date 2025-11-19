@@ -1,4 +1,4 @@
-__orA${comment}(p=__param__)____com(c=PENETRATION)__ __sex__
+__com(c=PENETRATION)__ __sex__
 __com(c=PENETRATION)__ __sex__
 __com(c=PENETRATION)__ __sex__
 __com(c=PENETRATION)__ __sex__
@@ -23,4 +23,7 @@ __com(c=FELLATIO)__ __sex_imminent__ {irrumatio, |fellatio, }head grab, throat b
 __com(c=UNDRESSING)__ undressing, __${appearance}__
 # __com(c=POSING)__ {__solo_posing__|__solo_posing_2__} solo, dynamic pose,
 # __com(c=CREEP)__  __${appearance}__ solo, {walking, |running, |standing, } {from above, |from below, }__exposure__
-# __com(c=CLOSEUP)__ {__positions_insertion_main__|} __sex_insertion_scale__ (rough sex), __sex_if_blood_or_juice__ __sex_if_stomach_bulge__ {close-up|(close-up:2)}, {pussy focus|}, {gaping|}, {spreading own pussy|}, __sex_if_cum__
+__com(c=CLOSEUP)__ {__positions_insertion_main__|{gaping, |} {__sex_if_cum__|} {spreading own pussy, |}} __sex_insertion_scale__ (rough sex), __sex_if_blood_or_juice__ __sex_if_stomach_bulge__ {close-up|(close-up:2)}, {pussy focus|}
+# _1boy, 2girls, __positions_insertion_main__ __posing_f_generic_noheadback__ ffm threesome, group sex, __sex_if_juice__ __actor_m__ __sex_spread_pussy__ __sex_if_cum__ __${appearance}__
+# _2boys, 2girls, __positions_insertion_main__ __posing_f_generic_noheadback__ orgy, group sex, __sex_if_juice__ __actor_m__ __sex_spread_pussy__ __sex_if_cum__ __${appearance}__
+__com(c=FMAST)__ female_masturbation, {|spreading own pussy, } {__solo_posing__|__solo_posing_2__} solo, dynamic pose,

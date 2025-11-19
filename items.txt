@@ -1,4 +1,5 @@
 {wine bottle, wine glass,|wine bottle,|wine glass,}
+mouth hold, condom, condom in mouth, condom wrapper,
 soda_can
 disposable_cup
 liquor

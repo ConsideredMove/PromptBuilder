@@ -1,2 +1,2 @@
-__clothing_if_wet__ __clothing_material__ {__clothing_mask_if__|__accessories_gag_if__} 
+__clothing_if_wet__ __clothing_material__ {|||{__clothing_mask_if__|__clothing_glasses__}}{|||__accessories_gag_if__} {__accessories_groups_generic__|||}
 #  __accessories_groups__  __orA${bottomAccess}(p=__clothing_access__)__

@@ -23,7 +23,7 @@ poolcave
 plain
 alley
 storage room
-cliff
+# Cliff
 beach
 church
 pool, partially underwater shot, partially submerged

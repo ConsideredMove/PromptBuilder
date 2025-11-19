@@ -1,1 +1,1 @@
-__com(c=**Posing**)__ __posture_back__ __foot_posing_f__ __leg_posing_f_asymmetry__ {|||dynamic pose}
+__com(c=**Posing**)__ 1girl, __posture_back__ __foot_posing_f__ __leg_posing_f_asymmetry__ {|||dynamic pose}

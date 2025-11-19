@@ -1,2 +1,2 @@
 __accessories_groups_sel__
-__clothing_shoes_if__ __accessories_groups_sel__
+# __clothing_shoes_if__ __accessories_groups_sel__

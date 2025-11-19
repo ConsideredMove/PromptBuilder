@@ -46,3 +46,12 @@ elf female, blonde hair, pale skin, small breasts, skinny, (emaciated:0.5) narro
 (dynamic pose:1.3), (dynamic angle:1.2), on recliner, upside down, feet up,
 
 1girl, solo, arched back, miniskirt, string bikini, small breasts, cigarette, blonde hair, roots \(hair\), smirk, choker,
+
+(beautiful:1.2), detailed background, detailed hair, depth of field, photorealistic details, masterpiece, best quality, amazing quality, very aesthetic, high resolution, ultra-detailed, absurdres, newest, scenery, volumetric lighting, (photorealistic lighting:1.2), (very awa:1.2), glamour shot
+
+And this in the negative prompt:
+
+ugly, disfigured, lowres, (worst quality, bad quality:1.2)
+
+white cropped shirt, oversized shirt, black laced bra, fishnet top, black shorts, denim, torn jeans, navel piercing, colored inner hair, pink hair, white belt, chain belt, chain leash, leash, cleavage cutout, loose shirt, loose belt, ear piercing, chest strap, pink shoelace, pink cross-laced shorts, pink laced bra, knee boots, spiked boots, belt boots, platform boots, black fingernails, fishnet_sleeves, fishnet_pantyhose,
+fishnet stocking, baby blue panties, white lace babydoll nightgown, panties to the side
