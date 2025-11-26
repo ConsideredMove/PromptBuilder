@@ -1,0 +1,44 @@
+Weight and Emphasis Syntax
+Attention/Emphasis:
+
+(word) - Increase attention by 1.1x
+((word)) - Increase attention by 1.21x (1.1²)
+(word:1.5) - Increase attention by 1.5x (more precise)
+[word] - Decrease attention by 0.9x
+[[word]] - Decrease attention by 0.81x (0.9²)
+(word:0.8) - Decrease attention to 0.8x
+
+Examples:
+
+(beautiful face:1.3) - Emphasize beautiful face
+[large hands] - De-emphasize large hands
+((masterpiece)) - Strong emphasis on masterpiece quality
+
+Step-by-Step Control
+Prompt Scheduling:
+
+[word:number] - Start word after step number
+[word::number] - Stop word at step number
+[word:word2:number] - Switch from word to word2 at step number
+
+Examples:
+
+[detailed:0.5] - Start "detailed" halfway through generation
+[blurry::0.3] - Stop "blurry" at 30% of steps
+[sketch:photograph:0.4] - Switch from sketch to photograph at 40%
+
+Alternating Prompts
+
+[word1|word2] - Alternate between words each step
+[red|blue|green] - Cycle through multiple options
+
+Special Tokens
+
+BREAK - Forces a new chunk (useful for very long prompts)
+Commas separate different concepts/elements
+
+Advanced Techniques
+Prompt Editing:
+
+Combine multiple techniques: ((red hair:1.2):0.8)
+Nested emphasis: (beautiful (blue eyes:1.1):1.2)

@@ -8,7 +8,7 @@ __com(c=PRONE BONE)__ boy on top, lying, on stomach, (prone_bone:1), crawling, a
 __com(c=LAYER BACK)__ lying on person, lying on back, girl on top, __hand_posing_f_s_lying_behindman__ __hand_posing_m_s_thighs_up__ __positions_if_kissing__
 __com(c=DOGGYSTYLE)__ (doggystyle, all fours:1.5), boy on top, __hand_posing_m_s_thighs_up__ __hand_posing_f_s_behindman__
 __com(c=BENT)__ (bent over:1.5), __positions_if_against_wall__ __hand_posing_m_s_thighs_up__ __hand_posing_f_c_generic__
-__com(c=TOP DOWN)__ (top-down bottom-up:2), head pinned down, boy on top, __hand_posing_m_c_thighs__ __hand_posing_f_s_lying__
+__com(c=TOP DOWN)__ (top-down bottom-up:2), boy on top, __hand_posing_m_c_thighs__ __hand_posing_f_s_lying__
 __positions_prop_behind__
 __com(c=NELSON LYING)__ lying on person, lying on back, girl on top, (full nelson:1.5), __hand_posing_m_c_thighs__ __hand_posing_f_s_behindman_neararms__
 __com(c=NELSON SITTING)__ sitting, sitting on person, on lap, sitting on lap, front-to-back, girl on top, full nelson, (full nelson:1.5), __hand_posing_m_c_thighs__ __hand_posing_f_s_behindman_neararms__

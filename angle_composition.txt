@@ -1,7 +1,7 @@
 close-up,
 cowboy shot,
 full body,
-wide shot,
+# wide shot,
 #head out of frame
 #eyes out of frame
 #Lower body
