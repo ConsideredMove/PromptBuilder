@@ -1,1 +1,1 @@
-__1wildcard_main(insertScale=1, sexMode=situation, appearance=1r_appearance, actorM=actor_m_d, comment=1)__
+__1wildcard_main(insertScale=1.2, sexMode=situation, appearance=1r_appearance, actorM=actor_m_d)__

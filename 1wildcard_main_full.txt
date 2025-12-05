@@ -1,2 +1,2 @@
 __com(c=SEX)__ __sex__ __com(c=CLOTHING)__ __${appearance}__ __com(c=ACCENTS)__ __accent__ __com(c=ANGLE)__ __angle2__ __com(c=LOOKING AT)__ __looking_at__ __com(c=HAIR)__ __hair__ __com(c=FACE)__ __face2_if__ __com(c=STEAM)__ __accent_if_steam__ __com(c=SWEAT)__ __accent_if_sweat__ __com(c=LOCATION)__ __location__ __com(c=COLOR)__ __color__ __com(c=ITEMS)__ __items_if__ __com(c=CUM ON)__ __cum_on__ __com(c=LIGHTING)__ __lighting__ __com(c=STYLE)__ __style__ __com(c=STYLE MODE)__ __style_mode__ __com(c=MAKEUP)__ __com(c=)__
-# This version has every possible option. This might be a little too much.
+# This version has every possible option. This might be a little too much.,

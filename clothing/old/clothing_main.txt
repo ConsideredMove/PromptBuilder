@@ -4,4 +4,4 @@ __clothing_prefab_if__ __clothing_shoes_if__
 __clothing_pseudonude__
 __clothing_lingerie__ __clothing_shoes_if__
 __clothing_dress__ __clothing_pseudonude__
-completely nude,  __unworn_layer_picker__
+completely nude, __unworn_layer_picker__

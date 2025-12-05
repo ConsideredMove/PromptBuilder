@@ -1,5 +1,5 @@
-on desk, 
-on counter, 
+on desk,
+on counter,
 On bench,
 On couch,
 On chair,

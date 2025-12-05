@@ -13,8 +13,8 @@ pajamas,
 punk,
 goth fashion,
 emo fashion,
-ball gag, shibari
-sundress
+ball gag, shibari,
+sundress,
 tutu,
 waitress,
 sweatpants,

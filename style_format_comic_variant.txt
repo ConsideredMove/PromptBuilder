@@ -1,4 +1,4 @@
-Instant loss
-multiple views
-Borderless panels
-Collage
+Instant loss,
+multiple views,
+Borderless panels,
+Collage,

@@ -1,19 +1,18 @@
 crotch strap,
-
 Corset,
 bodystocking,
 leotards,
 harness,
 Bodysuit,
-bound ankles
-high heel boots
-bound arms
-bound legs
-bound thighs
-bound torso
-highleg leotard
-zipper leotard
-thighhighs
-leotard
-bodysuit
-armbinder
+bound ankles,
+high heel boots,
+bound arms,
+bound legs,
+bound thighs,
+bound torso,
+highleg leotard,
+zipper leotard,
+thighhighs,
+leotard,
+bodysuit,
+armbinder,

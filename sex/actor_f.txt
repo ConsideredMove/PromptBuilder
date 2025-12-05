@@ -1,6 +1,6 @@
-doujima nanako, short twintails, ribbon, bow, hair ribbon, hair bow, short hair
-# white sweater, multicolored dress, pink dress
-takagi-san, black eyes, forehead, long hair, brown hair
+doujima nanako, short twintails, ribbon, bow, hair ribbon, hair bow, short hair,
+# white sweater, multicolored dress, pink dress,
+takagi-san, black eyes, forehead, long hair, brown hair,
 ## asuka_langley_souryuu,
 gwen_stacy, blonde hair, blue eyes, asymmetrical hair, eyebrow piercing, slender,
 dawn (pokemon),
@@ -14,36 +14,48 @@ bea (pokemon),
 nessa (pokemon),
 rosa (pokemon),
 nemona (pokemon),
-alice (alice in wonderland)
-jahy
-matsuoka miu
-dawn (pokemon)
-kitagawa yuusuke
-yuuki haru
-isma
-mina (pokemon)
-kinomoto sakura
-daidouji tomoyo
-beatrice (re:zero)
-minase iori
-schierke (berserk)
-lady magnolia (trickstaboy)
-eureka (pokemon)
-mabel pines
-grim adventures
-gwendolyn tennyson
-mandy (grim adventures)
-professor shinonome
-anya forger
-becky blackbell
-porno_(dohna_dohna), purple eyes, short hair, hair ornament, heart hair ornament
-# spiked collar, spikes, sleeveless, frilled dress, frills, dress, ribbon
-isabella garcia-shapiro
-the legend of zelda: breath of the wild, princess zelda
-Young Zelda, pink hat, dress, jewelry, juliet sleeves, long sleeves, two-tone dress, puffy sleeves, pink dress, long dress
-kirlia, pokemon, pokephilia, green hair, green skin, white skin, white skirt
+alice (alice in wonderland),
+jahy,
+matsuoka miu, twintails, short bangs, bow, hair bow
+sakuragi matsuri, brown eyes, brown hair
+dawn (pokemon),
+sakura futaba,  red eyes, headphones, glasses, long hair, orange hair
+# hooded jacket, hood, blunt bangs, ahoge, t-shirt, undershirt, shirt, fur trim, jacket, lace-up boots, short shorts, shorts, tank top, thighhighs, thighhighs under boots, black boots, black thighhighs, wide sleeves, puffy sleeves, off shoulder, open hoodie, open jacket, open clothes
+yuuki haru, brown hair, hair between eyes, medium hair, flat chest
+# hat, hood, hoodie, open clothes, open hoodie, shorts, backwards hat,
+# kneehighs, long sleeves, shorts, white boots, white shorts, epaulettes, high heel boots, high heels
+isma,
+mina (pokemon),
+kinomoto sakura,
+daidouji tomoyo,
+beatrice (re:zero),
+minase iori,
+schierke (berserk),
+lady magnolia (trickstaboy),
+eureka (pokemon),
+mabel pines, braces, brown hair, hairband, pink hairband, long hair, 
+# long sleeves, pants, pink sweater, star (symbol), sweater
+gwendolyn tennyson, earrings, eyelashes, stud earrings, orange hair, short hair, hairclip, green eyes, swept bangs, flipped hair
+# blue shirt, cat print, animal print, raglan sleeves, white pants
+mandy (grim adventures), black eyes, black hairband, 
+# skirt, dress, pink dress, mary janes, 
+professor shinonome,
+anya forger, green eyes, pink hair, hairpods, short hair
+# school uniform, black dress, gold trim
+becky blackbell, scrunchie
+# school uniform, black dress, gold trim
+porno_(dohna_dohna), purple eyes, short hair, hair ornament, heart hair ornament,
+# spiked collar, spikes, sleeveless, frilled dress, frills, dress, ribbon,
+isabella garcia-shapiro,
+the legend of zelda: breath of the wild, princess zelda, blonde hair, braid, crown braid, hair ornament, hairclip, parted bangs, pointy ears, short hair, sidelocks
+# black cloak, black gloves, blue shirt, cloak, fingerless gloves, gloves, gold trim, hood, hooded cloak, 
+Young Zelda, pink hat,
+# dress, jewelry, juliet sleeves, long sleeves, two-tone dress, puffy sleeves, pink dress, long dress,
+kirlia, pokemon, pokephilia, green hair, green skin, white skin, white skirt, pleated skirt
 
-
-t-shirt, underwear, white panties, shoulder peek, breast pocket, jeans,  white shirt, collared shirt, long sleeves, pants pull, bags under eyes, panties aside, 
-
+# Unnamed
+t-shirt, underwear, white panties, shoulder peek, breast pocket, jeans, white shirt, collared shirt, long sleeves, pants pull, bags under eyes, panties aside,
 miniskirt, string bikini, choker, cigarette,
+red_eyeshadow, blonde_hair, curly_hair, blue_eyes, long eyelashes,
+1girl, blonde hair, short hair, wavy hair, bob cut, bridal gauntlets, thighhighs, garter belt, choker,
+denim short shorts, black_pantyhose, black pantyhose under shorts, blue sneakers, helix piercings, midriff, navel, white hair, white shirt, impossible clothes, shirt, collared shirt, long sleeves, single braid, braid,

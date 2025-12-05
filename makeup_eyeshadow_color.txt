@@ -1,6 +1,6 @@
-blue eyeshadow
-purple eyeshadow
-Red eyeshadow
-Pink eyeshadow
-aqua eyeshadow
-Orange eyeshadow
+blue eyeshadow,
+purple eyeshadow,
+Red eyeshadow,
+Pink eyeshadow,
+aqua eyeshadow,
+Orange eyeshadow,

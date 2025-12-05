@@ -1,10 +1,10 @@
 close-up,
 cowboy shot,
-full body,
+# full body,
 # wide shot,
-#head out of frame
-#eyes out of frame
-#Lower body
+#head out of frame,
+#eyes out of frame,
+#Lower body,
 __no__
 __no__
 __no__

@@ -1,9 +1,9 @@
-__com(c=MATING PRESS)__ (Mating press:1.5), 
+__com(c=MATING PRESS)__ (Mating press:1.5),
 __com(c=CARRYING)__ (suspended congress, Standing sex, lifting person, hanging legs:1.5), __hand_posing_m_carry__ __positions_if_kissing__ __hand_posing_f_s_frontman__ __positions_if_against_wall__
 __com(c=SPLIT)__ (standing, standing on one leg:1.5), __hand_posing_m_split__ __hand_posing_f_c_generic__ __face_if_biting_lip__ __positions_if_against_wall__
 __com(c=SPLIT 2)__ (standing split, split, tiptoes, balancing:1.5), __hand_posing_m_split__ __hand_posing_f_c_generic__ __face_if_biting_lip__ __positions_if_against_wall__
 __com(c=SIDE)__ (spooning:2), leg up, lying, on side, leg up, lying_on_side, __hand_posing_m_s_thighs_up__ __positions_if_kissing__ __hand_posing_f_s_behindman__
-__com(c=SITTING)__ (sitting, sitting on person, on lap, sitting on lap,  girl on top, {straddling|}:1.5), __hand_posing_m_s_thighs_up__ __positions_if_kissing__ __hand_posing_f_s_frontman_neararms__
+__com(c=SITTING)__ (sitting, sitting on person, on lap, sitting on lap, girl on top, {straddling|}:1.5), __hand_posing_m_s_thighs_up__ __positions_if_kissing__ __hand_posing_f_s_frontman_neararms__
 __positions_straddling_front__
 __com(c=MISSIONARY)__ (Missionary:1.5), boy on top, lying, on back, {hips up|}, __hand_posing_m_s_no_lock__ __positions_if_kissing__ __hand_posing_f_s_lying_frontman__
 __com(c=ANVIL)__ (Anvil position, boy_on_top:1.5), __hand_posing_m_s_no_lock__

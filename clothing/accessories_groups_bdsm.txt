@@ -1,5 +1,4 @@
 {tape gag|ball gag {gag harness|}|improvised gag|wiffle gag},
 pet collar,
-blindfold, {blindfold slip,|blindfold lift,||}
-
-#
+blindfold, {blindfold slip,|blindfold lift,||},
+#,

@@ -1,18 +1,18 @@
-{wine bottle, wine glass,|wine bottle,|wine glass,}
+{wine bottle, wine glass,|wine bottle,|wine glass,},
 mouth hold, condom, condom in mouth, condom wrapper,
-soda_can
-disposable_cup
-liquor
-beer_bottle
+soda_can,
+disposable_cup,
+liquor,
+beer_bottle,
 __cum_used_condom__
 # unworn bag,
 # Rose,
-# unworn clothes
+# unworn clothes,
 pill,
 water bottle,
 school_bag, unworn_bag,
 shoulder_bag, unworn_bag,
 smartphone,
 syringe,
-computer
-holding condom
+computer,
+holding condom,

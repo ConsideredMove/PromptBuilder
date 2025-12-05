@@ -28,7 +28,7 @@ def process_line(line, line_num):
         line = re.sub(r' +', ' ', line)
     
     # Check if line ends with __wildcard__ pattern
-    ends_with_wildcard = re.search(r'__[^_]+__$', line)
+    ends_with_wildcard = re.search(r'__.*?__$', line)
     
     if ends_with_wildcard:
         # Should NOT have comma

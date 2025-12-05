@@ -1,8 +1,8 @@
 magazine cover,
 fake phone screenshot,
 viewfinder, recording, battery indicator,
-fake screenshot
-fake phone screenshot
-social network
-Manga cover
-polaroid photo
+fake screenshot,
+fake phone screenshot,
+social network,
+Manga cover,
+polaroid photo,

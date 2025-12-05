@@ -10,22 +10,22 @@ Otaku room, __location_if_sheet_grab__
 nightclub,
 # Cityscape,
 #Landscape,
-under covers
-changing room
-bathroom
-# bathtub, shared bathing, wet, partially submerged
-toilet stall
-# shower, shared bathing, wet, partially submerged
-shower, wet
-gym
-prison cell
-poolcave
-plain
-alley
-storage room
-# Cliff
-beach
-church
-pool, partially underwater shot, partially submerged
-outdoors, on ground
-beach, towel
+under covers,
+changing room,
+bathroom,
+# bathtub, shared bathing, wet, partially submerged,
+toilet stall,
+# shower, shared bathing, wet, partially submerged,
+shower, wet,
+gym,
+prison cell,
+poolcave,
+plain,
+alley,
+storage room,
+# Cliff,
+beach,
+church,
+pool, partially underwater shot, partially submerged,
+outdoors, on ground,
+beach, towel,

@@ -1,6 +1,6 @@
 grabbing another's hair,
 # Holding another's hair,
-head grab, 
+head grab,
 # hands on another's head,
 grabbing another's face, face grab,
 mouth pull,

@@ -1,0 +1,1226 @@
+============================================================
+WILDCARD LINTER LOG
+============================================================
+Starting directory: C:\dev\AI Image\stable-diffusion-webui-reForge\extensions\sd-dynamic-prompts\wildcards\promptBuilder
+Files found: 341
+============================================================
+
+Processing: 1r_appearance.txt
+  No errors found
+
+Processing: 1wildcard_main.txt
+  Line 1: Collapsed multiple spaces
+
+Processing: 1wildcard_main_full.txt
+  Line 2: Added missing comma
+
+Processing: 1wildcard_main_params.txt
+  No errors found
+
+Processing: 1wildcard_var_closeup.txt
+  Line 1: Collapsed multiple spaces
+  Line 1: Added missing comma
+  Line 2: Added missing comma
+  Line 4: Removed trailing spaces
+  Line 5: Removed trailing spaces
+  Line 7: Added missing comma
+  Line 8: Added missing comma
+  Line 9: Added missing comma
+  Line 11: Removed trailing spaces
+
+Processing: accent.txt
+  Line 2: Collapsed multiple spaces
+  Line 2: Added missing comma
+
+Processing: accent_if_steam.txt
+  No errors found
+
+Processing: accent_if_sweat.txt
+  Line 1: Collapsed multiple spaces
+
+Processing: angle.txt
+  No errors found
+
+Processing: angle2.txt
+  Line 11: Added missing comma
+  Line 12: Added missing comma
+  Line 13: Added missing comma
+
+Processing: angle2_if.txt
+  No errors found
+
+Processing: angle_composition.txt
+  Line 5: Added missing comma
+  Line 6: Added missing comma
+  Line 7: Added missing comma
+
+Processing: angle_main.txt
+  Line 13: Added missing comma
+  Line 14: Added missing comma
+  Line 15: Added missing comma
+
+Processing: angle_mod.txt
+  No errors found
+
+Processing: angle_mod_picker.txt
+  No errors found
+
+Processing: color.txt
+  No errors found
+
+Processing: color_if.txt
+  No errors found
+
+Processing: items.txt
+  Line 1: Added missing comma
+  Line 3: Added missing comma
+  Line 4: Added missing comma
+  Line 5: Added missing comma
+  Line 6: Added missing comma
+  Line 10: Added missing comma
+  Line 17: Added missing comma
+  Line 18: Added missing comma
+
+Processing: items_if.txt
+  No errors found
+
+Processing: lighting.txt
+  No errors found
+
+Processing: location.txt
+  Line 13: Added missing comma
+  Line 14: Added missing comma
+  Line 15: Added missing comma
+  Line 16: Added missing comma
+  Line 17: Added missing comma
+  Line 18: Added missing comma
+  Line 19: Added missing comma
+  Line 20: Added missing comma
+  Line 21: Added missing comma
+  Line 22: Added missing comma
+  Line 23: Added missing comma
+  Line 24: Added missing comma
+  Line 25: Added missing comma
+  Line 26: Added missing comma
+  Line 27: Added missing comma
+  Line 28: Added missing comma
+  Line 29: Added missing comma
+  Line 30: Added missing comma
+  Line 31: Added missing comma
+
+Processing: location_if.txt
+  No errors found
+
+Processing: location_if_sheet_grab.txt
+  No errors found
+
+Processing: looking_at.txt
+  No errors found
+
+Processing: looking_at_if.txt
+  No errors found
+
+Processing: makeup_eyeshadow_color.txt
+  Line 1: Added missing comma
+  Line 2: Added missing comma
+  Line 3: Added missing comma
+  Line 4: Added missing comma
+  Line 5: Added missing comma
+  Line 6: Added missing comma
+
+Processing: makeup_if.txt
+  Line 1: Removed trailing spaces
+  Line 2: Added missing comma
+  Line 9: Added missing comma
+
+Processing: skin.txt
+  Line 1: Added missing comma
+  Line 2: Added missing comma
+
+Processing: style_coloring.txt
+  No errors found
+
+Processing: style_format.txt
+  No errors found
+
+Processing: style_format_comic_picker.txt
+  No errors found
+
+Processing: style_format_comic_variant.txt
+  Line 1: Added missing comma
+  Line 2: Added missing comma
+  Line 3: Added missing comma
+  Line 4: Added missing comma
+
+Processing: style_format_complements.txt
+  Line 1: Added missing comma
+  Line 2: Added missing comma
+  Line 4: Removed trailing spaces
+  Line 6: Added missing comma
+  Line 7: Added missing comma
+  Line 8: Added missing comma
+
+Processing: style_format_frame.txt
+  Line 4: Added missing comma
+  Line 5: Added missing comma
+  Line 6: Added missing comma
+  Line 7: Added missing comma
+  Line 8: Added missing comma
+
+Processing: style_mode.txt
+  No errors found
+
+Processing: clothing\accessories_gag_if.txt
+  Line 1: Added missing comma
+
+Processing: clothing\accessories_groups.txt
+  No errors found
+
+Processing: clothing\accessories_groups_bdsm.txt
+  Line 3: Added missing comma
+  Line 5: Added missing comma
+
+Processing: clothing\accessories_groups_generic.txt
+  Line 1: Added missing comma
+  Line 3: Removed trailing spaces
+  Line 6: Added missing comma
+  Line 12: Added missing comma
+  Line 14: Added missing comma
+  Line 16: Added missing comma
+
+Processing: clothing\accessories_groups_sel.txt
+  No errors found
+
+Processing: clothing\clothing2.txt
+  No errors found
+
+Processing: clothing\clothing2_main.txt
+  No errors found
+
+Processing: clothing\clothing2_w.txt
+  Line 1: Added missing comma
+  Line 2: Collapsed multiple spaces
+
+Processing: clothing\clothing_access.txt
+  No errors found
+
+Processing: clothing\clothing_accessL2.txt
+  No errors found
+
+Processing: clothing\clothing_bdsm.txt
+  Line 1: Added missing comma
+
+Processing: clothing\clothing_bdsm_bondage.txt
+  No errors found
+
+Processing: clothing\clothing_bdsm_components.txt
+  Line 8: Added missing comma
+  Line 9: Added missing comma
+  Line 10: Added missing comma
+  Line 11: Added missing comma
+  Line 12: Added missing comma
+  Line 13: Added missing comma
+  Line 14: Added missing comma
+  Line 15: Added missing comma
+  Line 16: Added missing comma
+  Line 17: Added missing comma
+  Line 18: Added missing comma
+  Line 19: Added missing comma
+
+Processing: clothing\clothing_bdsm_components_picker.txt
+  No errors found
+
+Processing: clothing\clothing_bdsm_main.txt
+  No errors found
+
+Processing: clothing\clothing_bodysuit.txt
+  No errors found
+
+Processing: clothing\clothing_bodysuit_main.txt
+  No errors found
+
+Processing: clothing\clothing_bra.txt
+  Line 1: Removed trailing spaces
+
+Processing: clothing\clothing_bra_color.txt
+  No errors found
+
+Processing: clothing\clothing_bra_if.txt
+  No errors found
+
+Processing: clothing\clothing_bra_m.txt
+  No errors found
+
+Processing: clothing\clothing_bra_main.txt
+  No errors found
+
+Processing: clothing\clothing_glasses.txt
+  Line 1: Added missing comma
+  Line 2: Added missing comma
+  Line 3: Added missing comma
+  Line 4: Added missing comma
+  Line 5: Added missing comma
+  Line 6: Added missing comma
+  Line 7: Added missing comma
+
+Processing: clothing\clothing_if_wet.txt
+  No errors found
+
+Processing: clothing\clothing_lingerie.txt
+  No errors found
+
+Processing: clothing\clothing_mask.txt
+  Line 1: Added missing comma
+  Line 2: Added missing comma
+  Line 3: Added missing comma
+  Line 4: Added missing comma
+  Line 5: Added missing comma
+  Line 6: Added missing comma
+  Line 7: Added missing comma
+
+Processing: clothing\clothing_mask_if.txt
+  No errors found
+
+Processing: clothing\clothing_mask_if_blindfold_lift.txt
+  Line 1: Added missing comma
+
+Processing: clothing\clothing_material.txt
+  No errors found
+
+Processing: clothing\clothing_panties.txt
+  No errors found
+
+Processing: clothing\clothing_panties_if.txt
+  No errors found
+
+Processing: clothing\clothing_panties_main.txt
+  No errors found
+
+Processing: clothing\clothing_panties_off.txt
+  No errors found
+
+Processing: clothing\clothing_panties_stain.txt
+  No errors found
+
+Processing: clothing\clothing_panties_stain_if.txt
+  No errors found
+
+Processing: clothing\clothing_panties_unworn.txt
+  Line 1: Removed trailing spaces
+
+Processing: clothing\clothing_panties_unworn_if.txt
+  No errors found
+
+Processing: clothing\clothing_panties_unworn_status.txt
+  No errors found
+
+Processing: clothing\clothing_panties_unworn_status_if.txt
+  No errors found
+
+Processing: clothing\clothing_panties_variant.txt
+  No errors found
+
+Processing: clothing\clothing_pseudonude.txt
+  No errors found
+
+Processing: clothing\clothing_set_1.txt
+  Line 16: Added missing comma
+  Line 17: Added missing comma
+
+Processing: clothing\clothing_set_2.txt
+  Line 14: Added missing comma
+  Line 15: Added missing comma
+  Line 16: Added missing comma
+
+Processing: clothing\clothing_set_no_panties.txt
+  No errors found
+
+Processing: clothing\clothing_shoes.txt
+  No errors found
+
+Processing: clothing\clothing_shoes_action.txt
+  Line 2: Removed trailing spaces
+
+Processing: clothing\clothing_shoes_if.txt
+  No errors found
+
+Processing: clothing\clothing_shoes_main.txt
+  No errors found
+
+Processing: clothing\clothing_socks.txt
+  No errors found
+
+Processing: clothing\clothing_socks_if.txt
+  No errors found
+
+Processing: clothing\clothing_socks_main.txt
+  No errors found
+
+Processing: clothing\clothing_socks_mod.txt
+  No errors found
+
+Processing: clothing\clothing_socks_mod_if.txt
+  No errors found
+
+Processing: clothing\clothing_socks_unworn_if.txt
+  No errors found
+
+Processing: clothing\clothing_socks_variant.txt
+  No errors found
+
+Processing: clothing\clothing_socks_variant_if.txt
+  No errors found
+
+Processing: clothing\clothing_style_bridal.txt
+  Line 5: Added missing comma
+
+Processing: clothing\clothing_swimsuit.txt
+  Line 1: Removed trailing spaces
+  Line 3: Removed trailing spaces
+
+Processing: clothing\clothing_swimsuit_conservative.txt
+  No errors found
+
+Processing: clothing\clothing_swimsuit_if.txt
+  No errors found
+
+Processing: clothing\clothing_swimsuit_incomplete.txt
+  No errors found
+
+Processing: clothing\clothing_swimsuit_libertious.txt
+  No errors found
+
+Processing: clothing\clothing_swimsuit_m.txt
+  No errors found
+
+Processing: clothing\clothing_swimsuit_main.txt
+  No errors found
+
+Processing: clothing\clothing_swimsuit_m_if.txt
+  No errors found
+
+Processing: clothing\stripped.txt
+  No errors found
+
+Processing: clothing\unworn.txt
+  No errors found
+
+Processing: clothing\unworn_bottoms.txt
+  No errors found
+
+Processing: clothing\unworn_fullbody.txt
+  No errors found
+
+Processing: clothing\unworn_tops.txt
+  No errors found
+
+Processing: ext\ext5.txt
+  No errors found
+
+Processing: ext\ext50.txt
+  No errors found
+
+Processing: ext\ext51.txt
+  No errors found
+
+Processing: ext\ext52.txt
+  No errors found
+
+Processing: ext\ext53.txt
+  No errors found
+
+Processing: ext\ext54.txt
+  No errors found
+
+Processing: ext\ext55.txt
+  No errors found
+
+Processing: ext\ext56.txt
+  No errors found
+
+Processing: ext\ext57.txt
+  No errors found
+
+Processing: ext\ext58.txt
+  No errors found
+
+Processing: ext\ext59.txt
+  No errors found
+
+Processing: ext\ext6.txt
+  No errors found
+
+Processing: ext\ext60.txt
+  No errors found
+
+Processing: ext\ext61.txt
+  No errors found
+
+Processing: ext\ext62.txt
+  No errors found
+
+Processing: ext\ext63.txt
+  No errors found
+
+Processing: ext\ext64.txt
+  No errors found
+
+Processing: ext\ext65.txt
+  No errors found
+
+Processing: ext\ext66.txt
+  No errors found
+
+Processing: ext\ext67.txt
+  No errors found
+
+Processing: ext\ext68.txt
+  No errors found
+
+Processing: ext\ext69.txt
+  No errors found
+
+Processing: ext\ext7.txt
+  No errors found
+
+Processing: ext\ext70.txt
+  No errors found
+
+Processing: ext\ext71.txt
+  No errors found
+
+Processing: ext\ext72.txt
+  No errors found
+
+Processing: ext\ext73.txt
+  No errors found
+
+Processing: ext\ext74.txt
+  No errors found
+
+Processing: ext\ext75.txt
+  No errors found
+
+Processing: ext\ext76.txt
+  No errors found
+
+Processing: ext\ext77.txt
+  No errors found
+
+Processing: ext\ext78.txt
+  No errors found
+
+Processing: ext\ext79.txt
+  No errors found
+
+Processing: ext\ext8.txt
+  No errors found
+
+Processing: ext\ext80.txt
+  No errors found
+
+Processing: ext\ext81.txt
+  No errors found
+
+Processing: ext\ext82.txt
+  No errors found
+
+Processing: ext\ext83.txt
+  No errors found
+
+Processing: ext\ext84.txt
+  No errors found
+
+Processing: ext\ext85.txt
+  No errors found
+
+Processing: ext\ext86.txt
+  No errors found
+
+Processing: ext\ext87.txt
+  No errors found
+
+Processing: ext\ext88.txt
+  No errors found
+
+Processing: ext\ext89.txt
+  No errors found
+
+Processing: ext\ext9.txt
+  No errors found
+
+Processing: ext\ext90.txt
+  No errors found
+
+Processing: ext\ext91.txt
+  No errors found
+
+Processing: ext\ext92.txt
+  No errors found
+
+Processing: ext\ext93.txt
+  No errors found
+
+Processing: ext\ext94.txt
+  No errors found
+
+Processing: ext\ext95.txt
+  No errors found
+
+Processing: ext\ext96.txt
+  No errors found
+
+Processing: ext\ext97.txt
+  No errors found
+
+Processing: ext\ext98.txt
+  No errors found
+
+Processing: ext\ext99.txt
+  No errors found
+
+Processing: face\2if_face_clenched_teeth.txt
+  No errors found
+
+Processing: face\2if_face_constricted_pupils.txt
+  No errors found
+
+Processing: face\2if_face_crying.txt
+  No errors found
+
+Processing: face\2if_face_crying_eyes_open.txt
+  No errors found
+
+Processing: face\2if_face_drool.txt
+  No errors found
+
+Processing: face\2if_face_heart_pupils.txt
+  No errors found
+
+Processing: face\2if_face_rolling_eyes.txt
+  No errors found
+
+Processing: face\2if_face_scared_mouth.txt
+  No errors found
+
+Processing: face\2if_face_tongue.txt
+  No errors found
+
+Processing: face\2if_face_uneven_eyes.txt
+  No errors found
+
+Processing: face\2if_face_wide-eyed.txt
+  No errors found
+
+Processing: face\face.txt
+  No errors found
+
+Processing: face\face2.txt
+  Line 2: Removed trailing spaces
+  Line 3: Added missing comma
+  Line 7: Removed trailing spaces
+  Line 9: Added missing comma
+  Line 10: Removed trailing spaces
+  Line 11: Removed trailing spaces
+  Line 12: Added missing comma
+  Line 13: Removed trailing spaces
+  Line 14: Added missing comma
+
+Processing: face\face2_if.txt
+  No errors found
+
+Processing: face\face_if_biting_lip.txt
+  Line 1: Added missing comma
+
+Processing: face\face_if_bloodshot.txt
+  Line 1: Removed trailing spaces
+
+Processing: face\face_if_blush.txt
+  No errors found
+
+Processing: face\face_if_eyebags.txt
+  No errors found
+
+Processing: face\face_if_fangs.txt
+  No errors found
+
+Processing: face\face_if_mouth_openness.txt
+  No errors found
+
+Processing: face\face_if_raised_eyebrow.txt
+  No errors found
+
+Processing: face\face_if_shaded_face.txt
+  No errors found
+
+Processing: face\face_if_smirk.txt
+  No errors found
+
+Processing: face\face_main.txt
+  Line 1: Removed trailing spaces
+  Line 2: Removed trailing spaces
+  Line 2: Collapsed multiple spaces
+  Line 3: Removed trailing spaces
+  Line 14: Removed trailing spaces
+
+Processing: face\if_face_50.txt
+  No errors found
+
+Processing: face\if_heart.txt
+  No errors found
+
+Processing: hair\hair.txt
+  No errors found
+
+Processing: hair\hairstyle.txt
+  No errors found
+
+Processing: hair\hairstyle_ahoge.txt
+  No errors found
+
+Processing: hair\hairstyle_ahoge_if.txt
+  No errors found
+
+Processing: hair\hairstyle_front.txt
+  No errors found
+
+Processing: hair\hairstyle_if_messy.txt
+  No errors found
+
+Processing: hair\hairstyle_length.txt
+  No errors found
+
+Processing: hair\hairstyle_over.txt
+  No errors found
+
+Processing: hair\hairstyle_over_if.txt
+  No errors found
+
+Processing: hair\hair_color.txt
+  No errors found
+
+Processing: hair\hair_item.txt
+  No errors found
+
+Processing: hair\hair_item_if.txt
+  No errors found
+
+Processing: hair\hair_texture.txt
+  No errors found
+
+Processing: sex\actor_f.txt
+  Line 1: Added missing comma
+  Line 2: Added missing comma
+  Line 3: Added missing comma
+  Line 17: Added missing comma
+  Line 18: Added missing comma
+  Line 19: Added missing comma
+  Line 20: Added missing comma
+  Line 21: Added missing comma
+  Line 22: Added missing comma
+  Line 23: Added missing comma
+  Line 24: Added missing comma
+  Line 25: Added missing comma
+  Line 26: Added missing comma
+  Line 27: Added missing comma
+  Line 28: Added missing comma
+  Line 29: Added missing comma
+  Line 30: Added missing comma
+  Line 31: Added missing comma
+  Line 32: Added missing comma
+  Line 33: Added missing comma
+  Line 34: Added missing comma
+  Line 35: Added missing comma
+  Line 36: Added missing comma
+  Line 37: Added missing comma
+  Line 38: Added missing comma
+  Line 39: Added missing comma
+  Line 40: Added missing comma
+  Line 41: Added missing comma
+  Line 42: Added missing comma
+  Line 43: Added missing comma
+  Line 44: Added missing comma
+  Line 47: Removed trailing spaces
+  Line 47: Collapsed multiple spaces
+
+Processing: sex\actor_f_clothes.txt
+  Line 16: Added missing comma
+  Line 17: Added missing comma
+  Line 18: Added missing comma
+  Line 19: Added missing comma
+  Line 20: Added missing comma
+  Line 21: Added missing comma
+  Line 22: Added missing comma
+  Line 23: Added missing comma
+  Line 24: Added missing comma
+  Line 25: Added missing comma
+  Line 26: Added missing comma
+  Line 27: Added missing comma
+  Line 28: Added missing comma
+  Line 29: Added missing comma
+  Line 30: Added missing comma
+  Line 31: Added missing comma
+  Line 32: Added missing comma
+  Line 33: Added missing comma
+  Line 34: Added missing comma
+  Line 35: Added missing comma
+  Line 36: Added missing comma
+  Line 37: Added missing comma
+  Line 38: Removed trailing spaces
+  Line 38: Added missing comma
+  Line 39: Added missing comma
+  Line 40: Added missing comma
+
+Processing: sex\actor_m.txt
+  Line 2: Collapsed multiple spaces
+
+Processing: sex\actor_mf_header.txt
+  Line 1: Added missing comma
+
+Processing: sex\actor_m_d.txt
+  Line 2: Collapsed multiple spaces
+  Line 2: Added missing comma
+
+Processing: sex\cum.txt
+  Line 1: Added missing comma
+  Line 2: Added missing comma
+
+Processing: sex\cum_covered.txt
+  No errors found
+
+Processing: sex\cum_cross_section.txt
+  No errors found
+
+Processing: sex\cum_on.txt
+  No errors found
+
+Processing: sex\cum_on_if.txt
+  No errors found
+
+Processing: sex\cum_region.txt
+  No errors found
+
+Processing: sex\cum_used_condoms.txt
+  Line 1: Removed trailing spaces
+  Line 2: Added missing comma
+
+Processing: sex\cum_xray.txt
+  No errors found
+
+Processing: sex\foot_posing_f.txt
+  No errors found
+
+Processing: sex\foot_posing_if.txt
+  Line 1: Removed trailing spaces
+
+Processing: sex\hand_posing_nofront.txt
+  No errors found
+
+Processing: sex\if_condom_in_mouth.txt
+  Line 1: Added missing comma
+
+Processing: sex\leg_posing_f.txt
+  Line 18: Removed trailing spaces
+  Line 18: Added missing comma
+  Line 19: Removed trailing spaces
+  Line 19: Added missing comma
+
+Processing: sex\leg_posing_f_asymmetry.txt
+  No errors found
+
+Processing: sex\leg_posing_f_behindman.txt
+  No errors found
+
+Processing: sex\leg_posing_f_frontman.txt
+  No errors found
+
+Processing: sex\marking.txt
+  No errors found
+
+Processing: sex\marking_love.txt
+  No errors found
+
+Processing: sex\marking_love_picker.txt
+  Line 1: Removed trailing spaces
+
+Processing: sex\marking_viol.txt
+  No errors found
+
+Processing: sex\posing_f_generic.txt
+  Line 1: Added missing comma
+  Line 2: Added missing comma
+
+Processing: sex\posing_f_generic_noheadback.txt
+  Line 1: Added missing comma
+
+Processing: sex\positions_behind.txt
+  No errors found
+
+Processing: sex\positions_behind_main.txt
+  Line 3: Collapsed multiple spaces
+
+Processing: sex\positions_front.txt
+  Line 1: Removed trailing spaces
+  Line 6: Collapsed multiple spaces
+
+Processing: sex\positions_if_against_wall.txt
+  No errors found
+
+Processing: sex\positions_if_forced_hug.txt
+  No errors found
+
+Processing: sex\positions_if_hanging_legs.txt
+  No errors found
+
+Processing: sex\positions_if_kissing.txt
+  No errors found
+
+Processing: sex\positions_if_nelson.txt
+  No errors found
+
+Processing: sex\positions_if_tiptoe.txt
+  No errors found
+
+Processing: sex\positions_insertion_main.txt
+  No errors found
+
+Processing: sex\positions_noninserted.txt
+  No errors found
+
+Processing: sex\positions_prop.txt
+  Line 1: Removed trailing spaces
+  Line 2: Removed trailing spaces
+
+Processing: sex\positions_prop_behind.txt
+  Line 4: Removed trailing spaces
+
+Processing: sex\positions_prop_front.txt
+  No errors found
+
+Processing: sex\positions_straddling_front.txt
+  No errors found
+
+Processing: sex\posture_back.txt
+  No errors found
+
+Processing: sex\posture_if_head_back.txt
+  No errors found
+
+Processing: sex\sex.txt
+  Line 1: Removed trailing spaces
+  Line 1: Collapsed multiple spaces
+
+Processing: sex\sex_aftersex.txt
+  Line 1: Removed trailing spaces
+
+Processing: sex\sex_if_blood_or_juice.txt
+  Line 2: Added missing comma
+
+Processing: sex\sex_if_condom_inside.txt
+  Line 1: Added missing comma
+
+Processing: sex\sex_if_cum.txt
+  No errors found
+
+Processing: sex\sex_if_female_orgasm.txt
+  No errors found
+
+Processing: sex\sex_if_juice.txt
+  Line 2: Removed trailing spaces
+  Line 3: Removed trailing spaces
+
+Processing: sex\sex_if_stomach_bulge.txt
+  No errors found
+
+Processing: sex\sex_imminent.txt
+  Line 1: Removed trailing spaces
+
+Processing: sex\sex_insertion_scale.txt
+  Line 2: Added missing comma
+
+Processing: sex\sex_penis_on_stomach.txt
+  No errors found
+
+Processing: sex\sex_penis_scale.txt
+  Line 1: Added missing comma
+  Line 2: Added missing comma
+
+Processing: sex\sex_spread_pussy.txt
+  Line 1: Added missing comma
+  Line 2: Added missing comma
+  Line 3: Added missing comma
+  Line 4: Added missing comma
+  Line 5: Added missing comma
+
+Processing: sex\sex_thighsex.txt
+  No errors found
+
+Processing: sex\situation.txt
+  Line 19: Removed trailing spaces
+  Line 25: Collapsed multiple spaces
+  Line 26: Added missing comma
+
+Processing: sex\solo_posing.txt
+  No errors found
+
+Processing: sex\solo_posing_2.txt
+  No errors found
+
+Processing: sexb\actor_m_b.txt
+  Line 1: Added missing comma
+
+Processing: sexb\sexb.txt
+  Line 1: Removed trailing spaces
+  Line 1: Collapsed multiple spaces
+  Line 2: Collapsed multiple spaces
+
+Processing: sexb\sexb_after.txt
+  No errors found
+
+Processing: sexb\sexb_imminent.txt
+  Line 1: Added missing comma
+
+Processing: sexb\sexb_penetration_style.txt
+  Line 1: Added missing comma
+  Line 5: Added missing comma
+
+Processing: sexb\sexb_positions.txt
+  Line 1: Removed trailing spaces
+
+Processing: style\style.txt
+  No errors found
+
+Processing: style\style_picker.txt
+  Line 27: Added missing comma
+
+Processing: style\style_random.txt
+  Line 108: Added missing comma
+  Line 109: Added missing comma
+  Line 110: Added missing comma
+  Line 115: Added missing comma
+  Line 116: Added missing comma
+
+Processing: style\style_randopicker.txt
+  No errors found
+
+Processing: style\style_strength_proxy.txt
+  No errors found
+
+Processing: clothing\old\clothing.txt
+  No errors found
+
+Processing: clothing\old\clothing_accessories.txt
+  No errors found
+
+Processing: clothing\old\clothing_accessories_arm.txt
+  No errors found
+
+Processing: clothing\old\clothing_accessories_arm_if.txt
+  No errors found
+
+Processing: clothing\old\clothing_accessories_if.txt
+  No errors found
+
+Processing: clothing\old\clothing_accessories_neck_shoulders.txt
+  No errors found
+
+Processing: clothing\old\clothing_accessories_neck_shoulders_if.txt
+  No errors found
+
+Processing: clothing\old\clothing_accessories_torso_misc.txt
+  No errors found
+
+Processing: clothing\old\clothing_accessories_torso_misc_if.txt
+  No errors found
+
+Processing: clothing\old\clothing_dress.txt
+  No errors found
+
+Processing: clothing\old\clothing_dress_color.txt
+  No errors found
+
+Processing: clothing\old\clothing_dress_main.txt
+  No errors found
+
+Processing: clothing\old\clothing_dress_status.txt
+  No errors found
+
+Processing: clothing\old\clothing_dress_status_if.txt
+  No errors found
+
+Processing: clothing\old\clothing_dress_variant.txt
+  No errors found
+
+Processing: clothing\old\clothing_dress_variant_if.txt
+  No errors found
+
+Processing: clothing\old\clothing_fullbody.txt
+  No errors found
+
+Processing: clothing\old\clothing_main.txt
+  Line 7: Collapsed multiple spaces
+
+Processing: clothing\old\clothing_prefab.txt
+  No errors found
+
+Processing: clothing\old\clothing_prefab_if.txt
+  No errors found
+
+Processing: clothing\old\exposure.txt
+  No errors found
+
+Processing: clothing\old\exposure_bottom.txt
+  No errors found
+
+Processing: clothing\old\exposure_breast.txt
+  No errors found
+
+Processing: clothing\old\exposure_breast_if.txt
+  No errors found
+
+Processing: clothing\old\exposure_full.txt
+  No errors found
+
+Processing: clothing\old\exposure_main.txt
+  No errors found
+
+Processing: clothing\old\exposure_main_if.txt
+  No errors found
+
+Processing: clothing\old\exposure_shoulder.txt
+  No errors found
+
+Processing: clothing\old\exposure_shoulder_if.txt
+  No errors found
+
+Processing: clothing\old\exposure_torso.txt
+  No errors found
+
+Processing: clothing\old\exposure_torso_if.txt
+  No errors found
+
+Processing: clothing\old\exposure_vaginal.txt
+  No errors found
+
+Processing: clothing\old\exposure_vaginal_if.txt
+  No errors found
+
+Processing: clothing\old\unworn_layer.txt
+  No errors found
+
+Processing: clothing\old\unworn_layer_picker.txt
+  No errors found
+
+Processing: sex\hand_posing_f\hand_posing_f.txt
+  No errors found
+
+Processing: sex\hand_posing_f\hand_posing_f_c_behindman.txt
+  No errors found
+
+Processing: sex\hand_posing_f\hand_posing_f_c_face.txt
+  No errors found
+
+Processing: sex\hand_posing_f\hand_posing_f_c_frontman.txt
+  No errors found
+
+Processing: sex\hand_posing_f\hand_posing_f_c_generic.txt
+  Line 8: Removed trailing spaces
+  Line 44: Removed trailing spaces
+
+Processing: sex\hand_posing_f\hand_posing_f_c_ground.txt
+  No errors found
+
+Processing: sex\hand_posing_f\hand_posing_f_c_lying.txt
+  No errors found
+
+Processing: sex\hand_posing_f\hand_posing_f_c_neararms.txt
+  No errors found
+
+Processing: sex\hand_posing_f\hand_posing_f_old.txt
+  No errors found
+
+Processing: sex\hand_posing_f\hand_posing_f_s_behindman.txt
+  No errors found
+
+Processing: sex\hand_posing_f\hand_posing_f_s_behindman_neararms.txt
+  No errors found
+
+Processing: sex\hand_posing_f\hand_posing_f_s_frontman.txt
+  No errors found
+
+Processing: sex\hand_posing_f\hand_posing_f_s_frontman_neararms.txt
+  No errors found
+
+Processing: sex\hand_posing_f\hand_posing_f_s_lying.txt
+  No errors found
+
+Processing: sex\hand_posing_f\hand_posing_f_s_lying_behindman.txt
+  No errors found
+
+Processing: sex\hand_posing_f\hand_posing_f_s_lying_frontman.txt
+  No errors found
+
+Processing: sex\hand_posing_m\hand_posing_m - Copy.txt
+  No errors found
+
+Processing: sex\hand_posing_m\hand_posing_m.txt
+  No errors found
+
+Processing: sex\hand_posing_m\hand_posing_m_ass_only.txt
+  No errors found
+
+Processing: sex\hand_posing_m\hand_posing_m_breast.txt
+  No errors found
+
+Processing: sex\hand_posing_m\hand_posing_m_carry.txt
+  No errors found
+
+Processing: sex\hand_posing_m\hand_posing_m_c_feet.txt
+  No errors found
+
+Processing: sex\hand_posing_m\hand_posing_m_c_head.txt
+  Line 3: Removed trailing spaces
+
+Processing: sex\hand_posing_m\hand_posing_m_c_head_no_lock.txt
+  No errors found
+
+Processing: sex\hand_posing_m\hand_posing_m_c_thighs.txt
+  No errors found
+
+Processing: sex\hand_posing_m\hand_posing_m_c_torso.txt
+  No errors found
+
+Processing: sex\hand_posing_m\hand_posing_m_side.txt
+  No errors found
+
+Processing: sex\hand_posing_m\hand_posing_m_split.txt
+  No errors found
+
+Processing: sex\hand_posing_m\hand_posing_m_standing.txt
+  No errors found
+
+Processing: sex\hand_posing_m\hand_posing_m_s_no_lock.txt
+  No errors found
+
+Processing: sex\hand_posing_m\hand_posing_m_s_thighs_up.txt
+  No errors found
+
+Processing: sex\model\sex_insertion_scale_2dn.txt
+  Line 1: Added missing comma
+  Line 2: Added missing comma
+
+Processing: sex\model\sex_insertion_scale_bismuth.txt
+  Line 1: Added missing comma
+  Line 2: Added missing comma
+
+Processing: sex\model\sex_insertion_scale_generic.txt
+  Line 1: Added missing comma
+  Line 2: Added missing comma
+
+Processing: sex\model\sex_insertion_scale_wai.txt
+  Line 1: Added missing comma
+  Line 2: Added missing comma
+
+============================================================
+SUMMARY: 270 errors corrected across 341 files
+============================================================
