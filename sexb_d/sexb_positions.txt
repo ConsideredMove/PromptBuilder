@@ -14,9 +14,9 @@ __com(c=PILEDRIVER)__ (piledriver_(sex)), boy on top, piledriver, pinned, __hand
 # __com(c=REVERSE UPRIGHT STRADDLE)__ (reverse upright straddle:1.5), straddle, lying, lying on back, girl on top, __hand_posing_f_s_behindman__ __orA${sexTags}(p=sex_from_behind, )__
 __com(c=PRONE BONE)__ boy on top, lying, on stomach, (prone_bone:1), crawling, arched back, __hand_posing_f_s_behindman__ __orA${sexTags}(p=sex_from_behind, )__
 # __com(c=LAYER BACK)__ lying on back, lying on dog, girl on top, front-to-back, __hand_posing_f_s_lying_behindman__ __positions_if_kissing__ __orA${sexTags}(p=sex_from_behind, )__
-__com(c=DOGGYSTYLE)__ (doggystyle, all fours), boy on top, grabbing from behind, __hand_posing_f_s_behindman__ __orA${sexTags}(p=sex_from_behind, )__
-__com(c=BENT)__ (bent over), doggystyle, grabbing from behind, __positions_if_against_wall__ __hand_posing_f_c_generic__ __orA${sexTags}(p=sex_from_behind, )__
-__com(c=TOP DOWN)__ (top-down bottom-up:2), doggystyle, head pinned down, boy on top, grabbing from behind, __hand_posing_f_s_lying__ __orA${sexTags}(p=sex_from_behind, )__
+__com(c=DOGGYSTYLE)__ (doggystyle, all fours), boy on top, __hand_posing_f_s_behindman__ __orA${sexTags}(p=sex_from_behind, )__
+__com(c=BENT)__ (bent over), doggystyle, __positions_if_against_wall__ __hand_posing_f_c_generic__ __orA${sexTags}(p=sex_from_behind, )__
+__com(c=TOP DOWN)__ (top-down bottom-up:2), doggystyle, head pinned down, boy on top,  __hand_posing_f_s_lying__ __orA${sexTags}(p=sex_from_behind, )__
 # __positions_prop_behind__ __orA${sexTags}(p=sex_from_behind, )__
 # __com(c=ASS TO ASS)__ ass-to-ass penetration, all fours __hand_posing_f_c_generic__
 # __com(c=STANDING)__ standing, standing sex, __positions_if_hanging_legs__
